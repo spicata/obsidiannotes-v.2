@@ -15,11 +15,11 @@ Anyways, as I said the point of this website is to make education free and acces
 
 >Please note that methods and specialist notes will probably be very bad, as you really should be making notes on these subjects yourself. However, the chemistry notes will be of moderate quality, and will be good to read in your spare time if you aren't exactly learning the topics in class.
 
-**All current notes are available at [notes](https://edsobsidiannotes.netlify.app/notes/)**
+**All current notes are available at [notes](content/notes.md)**
 
 You may also wish to peruse through some sister-sites of this website, which I wholly recommend you do. Especially *"spicata"*'s one. You'll find them all [here](https://notes-coalition.github.io/).
 
-I recommend looking through the [[11AECHE Topic Notes|topic notes]] above all, as most of the [[11AECHE Class Notes|class notes]] are unformatted, and the [[11AECHE Published Notes|published notes section]] is looking quite barren. Please note however, I am yet to fully transition to a topic-style system when writing notes, so most of the topic notes have nothing in them. Do check out [[Electron Configuration]], I think its the only one with stuff.
+I recommend looking through the [topic notes](11AECHE%20Topic%20Notes) above all, as most of the [[11AECHE Class Notes|class notes]] are unformatted, and the [[11AECHE Published Notes|published notes section]] is looking quite barren. Please note however, I am yet to fully transition to a topic-style system when writing notes, so most of the topic notes have nothing in them. Do check out [[Electron Configuration]], I think its the only one with stuff.
 
 Also, here's my current [[Class note-taking procedure|formula for taking notes]]. (I realise you don't actually have my vault yet, so this won't make sense to you. Its coming soon, trust me)
 

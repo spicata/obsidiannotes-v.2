@@ -9,26 +9,44 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/config.md",
             "mode": "source",
             "backlinks": false,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "78d92aea8defca57",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/about.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.475099859028713}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/config.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.264684321007376}"
+            },
+            {
+              "leaf": "78d92aea8defca57",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/11AECHE Class 24.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "78d92aea8defca57",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/_index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":16},\"to\":{\"line\":33,\"ch\":16}},\"scroll\":19.473096127744093}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "78d92aea8defca57",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"11AECHE Topic Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.1871777967602806}"
+            },
+            {
+              "leaf": "78d92aea8defca57",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/_index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":40},\"to\":{\"line\":21,\"ch\":40}},\"scroll\":21.365578261115036}"
             }
           ]
         }
@@ -111,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/config.md"
               }
             }
           },
@@ -185,8 +203,11 @@
   },
   "active": "78d92aea8defca57",
   "lastOpenFiles": [
-    "content/about.md",
+    "content/11AECHE Class 24.md",
     "content/_index.md",
+    "11AECHE Topic Notes.md",
+    "AECHE Topic Notes.md",
+    "content/about.md",
     "content/002_PersonalNotes/002b_WeeklyNotes/2022-W36.md",
     "content/index.md",
     "content/notes/005_Templates/11AECHE_ClassNotes.md",
