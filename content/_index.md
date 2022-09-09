@@ -31,4 +31,6 @@ This website is in the development stage. There will definitely be some unformat
 
 Thanks for reading! I hope this website is somewhat useful to you.
 
+**REMEMBER!** [about](content/about.md), [notes](content/notes.md), [Development Status](content/Development%20Status.md)
+
 

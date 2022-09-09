@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "795304fa1ad8cc41",
+        "id": "78d92aea8defca57",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,19 +16,19 @@
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
-              "leaf": "795304fa1ad8cc41",
+              "leaf": "78d92aea8defca57",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/_index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":120},\"to\":{\"line\":9,\"ch\":120}},\"scroll\":33.302803704033664}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/about.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.475099859028713}"
             },
             {
-              "leaf": "795304fa1ad8cc41",
+              "leaf": "78d92aea8defca57",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":7.15917889184034}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/_index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":16},\"to\":{\"line\":33,\"ch\":16}},\"scroll\":19.473096127744093}"
             }
           ]
         }
@@ -162,18 +162,33 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "14b82b911a1f9326",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "795304fa1ad8cc41",
+  "active": "78d92aea8defca57",
   "lastOpenFiles": [
-    "content/index.md",
+    "content/about.md",
     "content/_index.md",
+    "content/002_PersonalNotes/002b_WeeklyNotes/2022-W36.md",
+    "content/index.md",
     "content/notes/005_Templates/11AECHE_ClassNotes.md",
     "content/notes/005_Templates/Daily Note Template.md",
     "content/notes/005_Templates/Weekly Note Template.md"

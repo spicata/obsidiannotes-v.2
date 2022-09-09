@@ -1,6 +1,6 @@
 {
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "",
+  "attachmentFolderPath": "content/000_Files",
   "promptDelete": false
 }
