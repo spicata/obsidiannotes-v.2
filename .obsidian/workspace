@@ -7,12 +7,23 @@
         "id": "74ee49e8cb5c0de7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/index.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "74ee49e8cb5c0de7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "74ee49e8cb5c0de7",
               "group": null,
@@ -118,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/index.md"
+              }
             }
           },
           {
@@ -173,10 +188,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f7131257067c3fea",
+  "active": "74ee49e8cb5c0de7",
   "lastOpenFiles": [
+    "content/notes/005_Templates/11AECHE_ClassNotes.md",
     "content/notes/005_Templates/Daily Note Template.md",
-    "content/notes/005_Templates/Weekly Note Template.md",
-    "content/notes/005_Templates/11AECHE_ClassNotes.md"
+    "content/notes/005_Templates/Weekly Note Template.md"
   ]
 }
