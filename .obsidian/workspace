@@ -9,6 +9,17 @@
         "state": {
           "type": "empty",
           "state": {}
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "74ee49e8cb5c0de7",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
         }
       }
     ],
@@ -52,8 +63,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "cdefdc75312a6a74",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -110,6 +130,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d5b3419d38f2191",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
