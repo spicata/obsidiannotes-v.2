@@ -16,7 +16,25 @@
             {
               "leaf": "74ee49e8cb5c0de7",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/notes/005_Templates/11AECHE_ClassNotes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "74ee49e8cb5c0de7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/notes/005_Templates/Daily Note Template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "74ee49e8cb5c0de7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/notes/005_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "74ee49e8cb5c0de7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/notes/005_Templates/11AECHE_ClassNotes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -39,6 +57,10 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -70,10 +92,13 @@
             "state": {
               "type": "file-tree-view",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,6 +173,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "74ee49e8cb5c0de7",
-  "lastOpenFiles": []
+  "active": "f7131257067c3fea",
+  "lastOpenFiles": [
+    "content/notes/005_Templates/Daily Note Template.md",
+    "content/notes/005_Templates/Weekly Note Template.md",
+    "content/notes/005_Templates/11AECHE_ClassNotes.md"
+  ]
 }
