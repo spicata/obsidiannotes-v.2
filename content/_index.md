@@ -1,26 +1,34 @@
 ---
-title: 🪴 Quartz 3.3
+title: "Ed's Obsidian Notes"
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+# Hello!
+	
 
-1. Extremely fast natural-language [[notes/search|search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+> ¯\\\_(ツ)\_/¯ maybe this works maybe it doesnt, but christian choe based
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+Welcome to my website! This is essentially **Obsidian Publish on steroids**, i.e. *this is where I publish my obsidian notes*. 
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+	The website runs using **eleventy** and **netlify**, with special thanks to Binyamin [(here is the github page)](https://github.com/binyamin/eleventy-garden), who essentially wrote all the code, did all the hard work, while I've just stolen it. :)
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+Anyways, as I said the point of this website is to make education free and accessible, as it should be. I will be uploading my generic class notes here, alongside some more refined subject-specific notes, such as methods, spec and chem.
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+>Please note that methods and specialist notes will probably be very bad, as you really should be making notes on these subjects yourself. However, the chemistry notes will be of moderate quality, and will be good to read in your spare time if you aren't exactly learning the topics in class.
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+**All current notes are available at [notes](https://edsobsidiannotes.netlify.app/notes/)**
+
+You may also wish to peruse through some sister-sites of this website, which I wholly recommend you do. Especially *"spicata"*'s one. You'll find them all [here](https://notes-coalition.github.io/).
+
+I recommend looking through the [[11AECHE Topic Notes|topic notes]] above all, as most of the [[11AECHE Class Notes|class notes]] are unformatted, and the [[11AECHE Published Notes|published notes section]] is looking quite barren. Please note however, I am yet to fully transition to a topic-style system when writing notes, so most of the topic notes have nothing in them. Do check out [[Electron Configuration]], I think its the only one with stuff.
+
+Also, here's my current [[Class note-taking procedure|formula for taking notes]]. (I realise you don't actually have my vault yet, so this won't make sense to you. Its coming soon, trust me)
+
+You may also enjoy perusing my [[Chemistry Resources review|rating of chemistry textbooks]].
+
+#### IMPORTANT!
+
+This website is in the development stage. There will definitely be some unformatted pages, and the whole thing is rather experimental. Check out the development status [here](https://edsobsidiannotes.netlify.app/development%20status/)!
+
+Thanks for reading! I hope this website is somewhat useful to you.
+
 

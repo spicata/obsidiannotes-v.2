@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "74ee49e8cb5c0de7",
+        "id": "795304fa1ad8cc41",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/index.md",
+            "file": "content/_index.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -19,34 +19,16 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "74ee49e8cb5c0de7",
+              "leaf": "795304fa1ad8cc41",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/_index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":120},\"to\":{\"line\":9,\"ch\":120}},\"scroll\":33.302803704033664}"
+            },
+            {
+              "leaf": "795304fa1ad8cc41",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "74ee49e8cb5c0de7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/notes/005_Templates/11AECHE_ClassNotes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "74ee49e8cb5c0de7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/notes/005_Templates/Daily Note Template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "74ee49e8cb5c0de7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/notes/005_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "74ee49e8cb5c0de7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/notes/005_Templates/11AECHE_ClassNotes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"scroll\":7.15917889184034}"
             }
           ]
         }
@@ -129,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -188,8 +170,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "74ee49e8cb5c0de7",
+  "active": "795304fa1ad8cc41",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/_index.md",
     "content/notes/005_Templates/11AECHE_ClassNotes.md",
     "content/notes/005_Templates/Daily Note Template.md",
     "content/notes/005_Templates/Weekly Note Template.md"
