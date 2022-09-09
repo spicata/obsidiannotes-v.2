@@ -1,0 +1,12 @@
+{
+  "fadeToggle": true,
+  "autoRefreshToggle": true,
+  "autoRefreshInterval": 1,
+  "renderDate": true,
+  "renderDateIcon": true,
+  "renderProject": false,
+  "renderProjectIcon": false,
+  "renderLabels": false,
+  "renderLabelsIcon": false,
+  "debugLogging": false
+}
