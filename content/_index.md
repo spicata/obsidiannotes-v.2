@@ -15,22 +15,22 @@ Anyways, as I said the point of this website is to make education free and acces
 
 >Please note that methods and specialist notes will probably be very bad, as you really should be making notes on these subjects yourself. However, the chemistry notes will be of moderate quality, and will be good to read in your spare time if you aren't exactly learning the topics in class.
 
-**All current notes are available at [notes](content/notes.md)** or maybe [notes](notes.md)
+**All current notes are available at [notes](notes.md)** or maybe [notes](notes.md)
 
 You may also wish to peruse through some sister-sites of this website, which I wholly recommend you do. Especially *"spicata"*'s one. You'll find them all [here](https://notes-coalition.github.io/).
 
-I recommend looking through the [topic notes](content/11AECHE%20Topic%20Notes.md) above all, as most of the [class notes](content/11AECHE%20Class%20Notes.md) are unformatted, and the [published notes](content/11AECHE%20Published%20Notes.md) is looking quite barren. Please note however, I am yet to fully transition to a topic-style system when writing notes, so most of the topic notes have nothing in them. Do check out [Electron Configuration](content/Electron%20Configuration.md), I think its the only one with stuff.
+I recommend looking through the [topic notes](11AECHE%20Topic%20Notes.md) above all, as most of the [class notes](11AECHE%20Class%20Notes.md) are unformatted, and the [published notes](11AECHE%20Published%20Notes.md) is looking quite barren. Please note however, I am yet to fully transition to a topic-style system when writing notes, so most of the topic notes have nothing in them. Do check out [Electron Configuration](Electron%20Configuration.md), I think its the only one with stuff.
 
-Also, here's my current [Class note-taking procedure](content/Class%20note-taking%20procedure.md). (I realise you don't actually have my vault yet, so this won't make sense to you. Its coming soon, trust me)
+Also, here's my current [Class note-taking procedure](Class%20note-taking%20procedure.md). (I realise you don't actually have my vault yet, so this won't make sense to you. Its coming soon, trust me)
 
-You may also enjoy perusing my [Yr11 Chemistry textbook review](content/Chemistry%20Resources%20review.md).
+You may also enjoy perusing my [Yr11 Chemistry textbook review](Chemistry%20Resources%20review.md).
 
 #### IMPORTANT!
 
-This website is in the development stage. There will definitely be some unformatted pages, and the whole thing is rather experimental. Check out the development status [here](content/Development%20Status.md)!
+This website is in the development stage. There will definitely be some unformatted pages, and the whole thing is rather experimental. Check out the development status [here](Development%20Status.md)!
 
 Thanks for reading! I hope this website is somewhat useful to you.
 
-**REMEMBER!** [about](content/about.md), [notes](content/notes.md), 
+**REMEMBER!** [about](about.md), [Development Status](Development%20Status.md)
 
 
