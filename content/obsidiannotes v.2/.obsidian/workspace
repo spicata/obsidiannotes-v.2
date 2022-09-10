@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "4b30e7c2a62efcba",
+    "id": "f0cb5c781b6d996b",
     "type": "split",
     "children": [
       {
-        "id": "e1b6b71f8d6bf3cc",
+        "id": "ab37503df6ce78d5",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b462b9df3f3a7025",
+    "id": "4b3a432af47453e4",
     "type": "split",
     "children": [
       {
-        "id": "92c95ad90d6ddf91",
+        "id": "6535533867c95b1d",
         "type": "tabs",
         "children": [
           {
-            "id": "53ce2421de3512a5",
+            "id": "cea26afbb69b429b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "329be4a8a65a17ee",
+            "id": "3cb3ddcbf5112161",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,29 +46,39 @@
             }
           },
           {
-            "id": "f0ca0b222742d493",
+            "id": "64d8ad81565986ab",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f2986a94080a1938",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5009346008301
   },
   "right": {
-    "id": "82666ee90aeebf6c",
+    "id": "b03fb469a524135a",
     "type": "split",
     "children": [
       {
-        "id": "39639fd8057c7212",
+        "id": "5102bda9fdc0a0a6",
         "type": "tabs",
+        "dimension": 49.115504682622266,
         "children": [
           {
-            "id": "a076808c02c0e765",
+            "id": "5393ab54bc75e23c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -84,7 +94,7 @@
             }
           },
           {
-            "id": "d4a6263214b05131",
+            "id": "f15935b53af74900",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -95,7 +105,7 @@
             }
           },
           {
-            "id": "6ff0d486091c780b",
+            "id": "96cc67b50c309410",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,10 +116,35 @@
             }
           },
           {
-            "id": "c9efb32b7bd0138c",
+            "id": "480d1e72b5154527",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "001_Notes/about.md"
+              }
+            }
+          },
+          {
+            "id": "6785a670626ab39a",
+            "type": "leaf",
+            "state": {
+              "type": "virtual-hotkey-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d3b0e9eb28f357ee",
+        "type": "tabs",
+        "dimension": 50.884495317377734,
+        "children": [
+          {
+            "id": "34c00b211fcf6ff5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -117,9 +152,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 378.60369873046875,
     "collapsed": true
   },
-  "active": "e1b6b71f8d6bf3cc",
-  "lastOpenFiles": []
+  "active": "ab37503df6ce78d5",
+  "lastOpenFiles": [
+    "notes/Comp Sci Task 1.md",
+    "notes/Comp Sci Class Notes.md",
+    "notes/Comp Sci 3.md",
+    "notes/Comp Sci 1.md",
+    "notes/Literature In Class Essay + Planning.md",
+    "notes/Econ Class 14.md",
+    "notes/Econ Class 13.md",
+    "notes/Econ Class 9.md",
+    "notes/Econ Class Notes.md",
+    "notes/Econ Class 11.md"
+  ]
 }

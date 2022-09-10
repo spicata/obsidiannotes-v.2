@@ -1,8 +1,1 @@
-{
-  "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
-  "attachmentFolderPath": "content/000_Files",
-  "promptDelete": false,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "content"
-}
+{}
