@@ -7,8 +7,30 @@
         "id": "ab37503df6ce78d5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_index.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "ab37503df6ce78d5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.937160173313337}"
+            },
+            {
+              "leaf": "ab37503df6ce78d5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"index.jpg.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            }
+          ]
         }
       }
     ],
@@ -83,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,6 +181,7 @@
   },
   "active": "ab37503df6ce78d5",
   "lastOpenFiles": [
+    "index.jpg.md",
     "notes/Comp Sci Task 1.md",
     "notes/Comp Sci Class Notes.md",
     "notes/Comp Sci 3.md",
@@ -165,7 +190,6 @@
     "notes/Econ Class 14.md",
     "notes/Econ Class 13.md",
     "notes/Econ Class 9.md",
-    "notes/Econ Class Notes.md",
-    "notes/Econ Class 11.md"
+    "notes/Econ Class Notes.md"
   ]
 }
