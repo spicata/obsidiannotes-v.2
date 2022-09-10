@@ -21,14 +21,32 @@
             {
               "leaf": "78d92aea8defca57",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/11AECHE Class Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.70370356241862}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/11AECHE Topic Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "78d92aea8defca57",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/_index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":451},\"to\":{\"line\":21,\"ch\":451}},\"scroll\":15.570248059989993}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":292},\"to\":{\"line\":15,\"ch\":292}},\"scroll\":11.71031752086821}"
+            },
+            {
+              "leaf": "78d92aea8defca57",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/Development Status.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "78d92aea8defca57",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/11AECHE Topic Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":21.240740034315323}"
+            },
+            {
+              "leaf": "78d92aea8defca57",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/_index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":21.157142966134206}"
             },
             {
               "leaf": "78d92aea8defca57",
@@ -133,8 +151,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,15 +245,15 @@
   },
   "active": "78d92aea8defca57",
   "lastOpenFiles": [
-    "content/11AECHE Class Notes.md",
-    "content/_index.md",
     "content/11AECHE Topic Notes.md",
+    "content/_index.md",
+    "content/Development Status.md",
+    "content/11AECHE Class Notes.md",
     "content/notes.md",
     "content/index.jpg.md",
     "content/config.md",
     "content/11AECHE Class 24.md",
     "11AECHE Topic Notes.md",
-    "AECHE Topic Notes.md",
-    "content/about.md"
+    "AECHE Topic Notes.md"
   ]
 }
