@@ -9,20 +9,38 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes.md",
+            "file": "content/_index.md",
             "mode": "source",
             "backlinks": false,
             "source": false
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "78d92aea8defca57",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/11AECHE Class Notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.70370356241862}"
+            },
+            {
+              "leaf": "78d92aea8defca57",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/_index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":451},\"to\":{\"line\":21,\"ch\":451}},\"scroll\":15.570248059989993}"
+            },
+            {
+              "leaf": "78d92aea8defca57",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/index.jpg.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":6.404761586870466}"
+            },
+            {
+              "leaf": "78d92aea8defca57",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content/notes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.03533959124814531}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.69891184840084}"
             },
             {
               "leaf": "78d92aea8defca57",
@@ -115,7 +133,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -135,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -209,15 +228,15 @@
   },
   "active": "78d92aea8defca57",
   "lastOpenFiles": [
+    "content/11AECHE Class Notes.md",
+    "content/_index.md",
+    "content/11AECHE Topic Notes.md",
+    "content/notes.md",
+    "content/index.jpg.md",
     "content/config.md",
     "content/11AECHE Class 24.md",
-    "content/_index.md",
     "11AECHE Topic Notes.md",
     "AECHE Topic Notes.md",
-    "content/about.md",
-    "content/002_PersonalNotes/002b_WeeklyNotes/2022-W36.md",
-    "content/index.md",
-    "content/notes/005_Templates/11AECHE_ClassNotes.md",
-    "content/notes/005_Templates/Daily Note Template.md"
+    "content/about.md"
   ]
 }

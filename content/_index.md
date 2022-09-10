@@ -9,7 +9,7 @@ title: "Ed's Obsidian Notes"
 
 Welcome to my website! This is essentially **Obsidian Publish on steroids**, i.e. *this is where I publish my obsidian notes*. 
 
-	The website runs using **eleventy** and **netlify**, with special thanks to Binyamin [(here is the github page)](https://github.com/binyamin/eleventy-garden), who essentially wrote all the code, did all the hard work, while I've just stolen it. :)
+The website runs using **github pages** and **quartz**, with special thanks to Jacky Zhao [(here is the github page)](https://github.com/jackyzha0), who essentially wrote all the code, did all the hard work, while I've just stolen it. :)
 
 Anyways, as I said the point of this website is to make education free and accessible, as it should be. I will be uploading my generic class notes here, alongside some more refined subject-specific notes, such as methods, spec and chem.
 
@@ -19,18 +19,18 @@ Anyways, as I said the point of this website is to make education free and acces
 
 You may also wish to peruse through some sister-sites of this website, which I wholly recommend you do. Especially *"spicata"*'s one. You'll find them all [here](https://notes-coalition.github.io/).
 
-I recommend looking through the [topic notes](11AECHE%20Topic%20Notes) above all, as most of the [[11AECHE Class Notes|class notes]] are unformatted, and the [[11AECHE Published Notes|published notes section]] is looking quite barren. Please note however, I am yet to fully transition to a topic-style system when writing notes, so most of the topic notes have nothing in them. Do check out [[Electron Configuration]], I think its the only one with stuff.
+I recommend looking through the [topic notes](content/11AECHE%20Topic%20Notes.md) above all, as most of the [class notes](content/11AECHE%20Class%20Notes.md) are unformatted, and the [published notes](content/11AECHE%20Published%20Notes.md) is looking quite barren. Please note however, I am yet to fully transition to a topic-style system when writing notes, so most of the topic notes have nothing in them. Do check out [Electron Configuration](content/Electron%20Configuration.md), I think its the only one with stuff.
 
-Also, here's my current [[Class note-taking procedure|formula for taking notes]]. (I realise you don't actually have my vault yet, so this won't make sense to you. Its coming soon, trust me)
+Also, here's my current [Class note-taking procedure](content/Class%20note-taking%20procedure.md). (I realise you don't actually have my vault yet, so this won't make sense to you. Its coming soon, trust me)
 
-You may also enjoy perusing my [[Chemistry Resources review|rating of chemistry textbooks]].
+You may also enjoy perusing my [Yr11 Chemistry textbook review](content/Chemistry%20Resources%20review.md).
 
 #### IMPORTANT!
 
-This website is in the development stage. There will definitely be some unformatted pages, and the whole thing is rather experimental. Check out the development status [here](https://edsobsidiannotes.netlify.app/development%20status/)!
+This website is in the development stage. There will definitely be some unformatted pages, and the whole thing is rather experimental. Check out the development status [here](content/Development%20Status.md)!
 
 Thanks for reading! I hope this website is somewhat useful to you.
 
-**REMEMBER!** [about](content/about.md), [notes](content/notes.md), [Development Status](content/Development%20Status.md)
+**REMEMBER!** [about](content/about.md), [notes](content/notes.md), 
 
 
