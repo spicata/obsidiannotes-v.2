@@ -32,30 +32,6 @@
             }
           ]
         }
-      },
-      {
-        "id": "71cb792f7147b1cf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_index.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "71cb792f7147b1cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_index.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        }
       }
     ],
     "direction": "vertical"
@@ -203,7 +179,7 @@
     "width": 378.60369873046875,
     "collapsed": true
   },
-  "active": "71cb792f7147b1cf",
+  "active": "0870b2be1a51434a",
   "lastOpenFiles": [
     "index.jpg.md",
     "_index.md",
