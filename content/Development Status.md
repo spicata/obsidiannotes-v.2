@@ -17,7 +17,7 @@ I am currently doing some *spring cleaning* of the website, so I will be going a
 ### 25/08/2022
 
 Hello! Couldn't wait a week to write another one of these. Just wanted to say that hopefully all images should be working right now, thanks to some epic javascript by Osacr, who is a member of the notes coalition. I will start begging Osacr to help with highlights, but in the mean time I probably won't be working on this project excessively. I'm not abandoning it though. Don't worry.
-![[Pasted image 20220825214344.png]]
+
 
 ### 27/08/2022
 
@@ -25,6 +25,6 @@ So it turns out that my formula for note taking isn't the slightest bit helpful 
 
 Normally, this would be fine, but because people like Tag exist and Tag likes to take other people's notes without asking them, I've had to private the repository. Give me a few days and it'll be back soon. :)
 
-![[Pasted image 20220827202550.png]]
+
 
 /\\ Proof that I am not capping and the repo exists. I mean, how else would this website exist???
