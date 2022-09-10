@@ -15,7 +15,7 @@ Anyways, as I said the point of this website is to make education free and acces
 
 >Please note that methods and specialist notes will probably be very bad, as you really should be making notes on these subjects yourself. However, the chemistry notes will be of moderate quality, and will be good to read in your spare time if you aren't exactly learning the topics in class.
 
-**All current notes are available at [notes](notes.md)** or maybe [notes](notes.md)
+**All current notes are available at [notes](notes.md)** 
 
 You may also wish to peruse through some sister-sites of this website, which I wholly recommend you do. Especially *"spicata"*'s one. You'll find them all [here](https://notes-coalition.github.io/).
 
