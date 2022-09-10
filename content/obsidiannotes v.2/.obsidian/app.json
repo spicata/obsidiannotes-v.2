@@ -6,8 +6,8 @@
   "alwaysUpdateLinks": true,
   "defaultViewMode": "source",
   "newFileLocation": "folder",
-  "newFileFolderPath": "notes",
-  "attachmentFolderPath": "assets",
+  "newFileFolderPath": "conte",
+  "attachmentFolderPath": "000_Files",
   "communityThemeSortOrder": "download",
   "spellcheck": true,
   "spellcheckDictionary": [
@@ -64,5 +64,6 @@
   "strictLineBreaks": true,
   "foldHeading": true,
   "rightToLeft": false,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
 }
