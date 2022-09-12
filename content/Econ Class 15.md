@@ -13,5 +13,3 @@ However, as the effects of the pandemic waned, the RBA introduced higher interes
 The initial drop in cash rate was a direct response to the effects of the Covid-19 pandemic, which caused stagnation in the macroeconomy. However, as lockdowns ended and economic activity skyrocketed, numerous crises such as the cost of living crisis and the housing crisis required the RBA to increase interest rates, and reduce aggregate demand. In doing so, the RBA engaged in contractionary policy to keep inflation low. This was done to keep inflation rate low, and eventually reach a 2-3% range.
 
 
-
-$\frac{d}{dx}(\sin\theta) =  { \cos\theta }$

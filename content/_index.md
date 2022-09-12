@@ -33,9 +33,5 @@ Thanks for reading! I hope this website is somewhat useful to you.
 
 **REMEMBER!** [about](about.md), [Development Status](Development%20Status.md)
 
-i do wonder, does [[History of the Atomic Model Notes]]
-
-or does [[000_Files/000a_images/index.png]]
-
-work?
+![[000_Files/000a_images/index.png]]
 
