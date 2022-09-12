@@ -34,7 +34,7 @@ Thanks for reading! I hope this website is somewhat useful to you.
 **REMEMBER!** [about](about.md), [Development Status](Development%20Status.md)
 
 
-wait wait wait does [[Reflections on Australia's Immigration policy|this]]
+wait wait wait does [[Reflections on Australia's Immigration policy|this]] work?
 
 ![[000_Files/000a_images/index.png]]
 
