@@ -54,7 +54,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 _End license text._
 
 ```
-- *Copyleft
+- *Copyleft*
 	- **Examples:**
 		- GNU General Public Licence
 		- GNU Lesser General Public Licence
