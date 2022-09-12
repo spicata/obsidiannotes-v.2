@@ -155,7 +155,8 @@ Turning on the Program:
 - I've included a little bit of code that **scales the height of the second window, relative to the number of accounts stored in the program**, so that the window can accommodate for as many account as can fit on the screen.
 
 User Selected
-![](000_Files/Pasted%20image%2020220912214001.png)
+
+![](000_Files/Pasted%20image%2020220912214114.png)
 
 
 - COMMENTS IN **ALGORITHM** CODE!!!
