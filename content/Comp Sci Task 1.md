@@ -170,9 +170,9 @@ For there one, there is little graphical change, as all that is changed is the t
 **User Interface**
 - The user has 2 ways of interacting with the program:
 	- Voice
-		- The fundamental utility of the program is that one can use their voice to 
+		- The fundamental utility of the program is that one can use their voice to maximise the functionality of their computer usage. The program clearly indicates when it is listening for audio input, with the text box changing and an audio cue being played. 
 	- Peripheral input (mouse)
-
+		- For trivial things like starting the program and choosing an account, I decided to use Tkinter buttons for these things, as I felt they were not worth implementing voice commands, however for future designs of the program this should be implemented. 
 
 - COMMENTS IN **ALGORITHM** CODE!!!
 4. Develop
