@@ -58,7 +58,6 @@ Tags:
 **Recall:** Aufbau's principle!!!! There is not a linear direction to the spdf blocks. 
 
 This is because, **certain subshells dont have (sorta) consistent levels of energy.**
-
 <img src="https://edsobsidiannotes.netlify.app/assets/AufbauPrinciple.png">
 
 E.g. Titanium: $1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}4s^{2}3d^{2}$
