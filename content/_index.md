@@ -33,7 +33,7 @@ Thanks for reading! I hope this website is somewhat useful to you.
 
 **REMEMBER!** [about](about.md), [Development Status](Development%20Status.md)
 
-does [[Econ Class 9]]
+does [[Econ Class 9]] work?
 
 ![[000_Files/000a_images/index.png]]
 
