@@ -155,8 +155,14 @@ Turning on the Program:
 - I've included a little bit of code that **scales the height of the second window, relative to the number of accounts stored in the program**, so that the window can accommodate for as many account as can fit on the screen.
 
 User Selected
-
+![](000_Files/Pasted%20image%2020220912214816.png)
 ![](000_Files/Pasted%20image%2020220912214114.png)
+- I create a function, the "boxstatus" function, specifically for changing the text of the window. It also logs the change in the "userdata.txt" file.
+
+For there one, there is little graphical change, as all that is changed is the text as it runs through the voice command from the user. It also repeats in asking for voice input, unless the program is terminated.
+
+**Graphics**
+- The program features very *minimalistic* graphics. 
 
 
 - COMMENTS IN **ALGORITHM** CODE!!!
