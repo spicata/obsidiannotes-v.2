@@ -170,7 +170,7 @@ For there one, there is little graphical change, as all that is changed is the t
 **User Interface**
 - The user has 2 ways of interacting with the program:
 	- Voice
-		- 
+		- The fundamental utility of the program is that one can use their voice to 
 	- Peripheral input (mouse)
 
 
