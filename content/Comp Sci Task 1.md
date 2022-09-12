@@ -90,7 +90,44 @@ The program is Python based, and relies on text files to store data. The program
 | sys                | Debugging in console          | Low Importance      |
 | time               | Getting time for the user log | Low Importance                    |
 
+There is minimal equipment requirements for the creation and development of this program. I used a relatively high-end Dell XPS-15 and Visual Studio Code for the development of the software. However, I had to install Python 3.10, and also all the modules listed above through PIP installation.
 
+For Visual Studio Code, I had the *Pylance* and *Python* modules installed. *Pylance* offers **rich type information**, i.e. gave suggestions for minor things for code, e.g. parameters, while the *Python* module allowed me to run and write the code in Visual Studio Code.
+
+I also used multiple sources of documentation for the various libraries for the program, such as Python Tutorial's website(https://www.pythontutorial.net/tkinter/), Tkinter documentation in Python(https://docs.python.org/3/library/tk.html), the official documentation of pyttsx3(https://pyttsx3.readthedocs.io/en/latest/), etc.
+
+In terms of skills and expertise, I have moderate skills in Python coding. I have a strong understanding of how functions work, which prove incredibly important for managing the structure of the program (having a main function, having a function that takes user voice input, having a function that speaks, etc.). Furthermore, through a strong understanding of lists, dictionaries and the use of text files in Python, I was able to store user data in a text file, and log all user interactions with the program in another file.
+
+I decided to log the actions of the program, as I felt that this would prove quite helpful as a means of gauging errors in the. However, I did not get to be able to log the change in variables present throughout the program, which means the logs will most likely be unhelpful for fixing logic errors.
+
+Visual Studio Code was my main source of testing for the program. Through its debugging menu (F5), I initially worked on the raw main.py file. I did so because when I pressed the Run Python File button, it did not access the text files. Later on while working on the project, I realised that I needed to open the folder the program was in, and from then I started using the Run Python File button, as it was easier to use.
+
+I also used Stack Overflow as a source of advice in using complex/badly-designed modules, such as Tkinter. For example, I initially had a problem with creating a function which would create multiple buttons of the same function, but with different parameters. I had difficulty fixing this issue, as I found that when the program started up, all the buttons were essentially pressed once, and would be unusable after. 
+
+```yaml {title='Button Code'}
+for i in accountdata:
+
+        button = ttk.Button(text = str(i))
+
+        button['command'] = finduser(i)
+
+        button.pack()
+```
+/* Note that the "finduser" function is a separate function.
+
+However, after looking up this issue with Tkinter on Stack Overflow, I discovered that when Tkinter parses through the 'command' section, it interprets the brackets as calling the function, and immediately calls the function, while incorrectly parsing the function, making it un-callable by the user.
+
+I also learnt from Stack Overflow to instead use Python's lambda functions.
+
+```yaml {title='Improved Button Code'}
+for i in accountdata:
+
+        button = ttk.Button(text = str(i))
+
+        button['command'] = lambda i=i: finduser(i)
+
+        button.pack()
+```
 
 
 **Similar Products:**
