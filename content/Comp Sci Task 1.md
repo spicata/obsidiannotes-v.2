@@ -14,7 +14,7 @@ layout: default
 - I aim to create a voice assistant that will allow increased productivity when using their computer for study or work. The target audience, myself included, wish to increase their personal productivity when studying, by eliminating repetition and tediousness that occurs regularly. 
 	- For example, when I am studying chemistry, I open Firefox, Obsidian and OneNote, and open textbooks I have on my computer. This takes valuable time, and reduces my overall efficiency when studying. I plan for my voice assistant to remove this inefficiency, by allowing custom commands, where if I were to say a key phrase, it would do all of these things at once, saving me crucial time.
 	- In the future, I also plan for the voice assistant to be a general tool in the office, for example it could send emails to large batches of fellow colleagues. 
-	- Furthermore, people who have used voice assistants before may demand high quality in graphical design of the program. Using Tkinter, I plan to provide a well-thought-out visual interface, however I have used copyrighted images (Siri logo) for parts of the visual design, as I feel its simplistic design fits my program.
+	- Furthermore, people who have used voice assistants before may demand high quality in graphical design of the program. Using Tkinter, I plan to provide a well-thought-out visual interface, however **I have used copyrighted images (Siri logo) for parts of the visual design**, as I feel its simplistic design fits my program, and I admire the quality of the Siri voice asssitant.
 - The program will fill its user's need for a simplistic, easy-to-learn voice assistant that will improve their productivity. It will also improve their quality of life, by helping its users achieve a healthy study schedule/routine.
 - Having research many software licences, I have settled on using the MIT licence for my program. I believe this licence reflects my desires for the use of my program, as I hope that others can take the program and improve on it for their own use. I also believe that if their version of my voice assistant is both unique and helpful for others, that its developers should be able to relicense it.
 
@@ -75,7 +75,7 @@ _End license text._
 	- Commercial and Proprietary licences are generally considered *closed-source*, as most Proprietary and Commercial programs are distributed in their **compiled form**, compared to **source code**.
 	- In general, Commercial and Proprietary licences also heavily restrict the redistribution of software. Where source code is available, some Proprietary and Commercial licences also restrict the distribution of modified source code.
 
-**Resources:**
+**Resources**
 The program is Python based, and relies on text files to store data. The program also requires a lot of modules for its basic function:
 
 *Modules:*
@@ -129,16 +129,36 @@ for i in accountdata:
         button.pack()
 ```
 
-
-**Similar Products:**
-- Alexa
+**Similar Products**
+- *Alexa*
 	- Amazon's Alexa excels in its compatibility with many operating systems, such iOS and Android. It also has numerous unique commands, and even includes voice commands that can change settings. I have considered using voice-activated commands to change settings, but I feel there is simply not enough settings to change, and it would be redundant. Furthermore, as the program is a python file, it is generally incompatible with most computers, considering the amount of modules it relies on.
-- Google Assistant
+- *Google Assistant*
 	- Google Assistant's greatest quality is its voice recognition software, which is some of the best in the world. However, through Google's text-to-speech module in Python, my voice assistant should have the same recognition capabilities. Stylistically, Google Assistant has a simplistic, colourful design, which I have been inspired by. The design of Google's voice assistant focuses on user interaction, in its friendly voice and extensive utility as a general assistant. I am able to use Google's text-to-speech via its Python module
-- Siri
+- *Siri*
 	- Apple's Siri is a very versatile voice assistant. It has limited settings, and is not very compatible compared to other well-known voice assistants. However, in terms of languages available, Siri is quite compatible, supporting up to 21 languages as of April 2021. Siri is mostly designed for mobile uses, which is why it is the most popular voice assistant for mobile devices. Unfortunately, as my program is written primarily in Python, and requires a lot of Python modules, it is incompatible for mobile use. However, I hope to design a voice assistant with much more basic voice commands than Siri, and my idea of customised voice commands give my program an advantage over Siri.
 2. Plan and Design
-- ==COMMENTS IN ALGORITHM CODE!!!==
+**Screen Layout**
+Initial Layout:
+![](000_Files/Pasted%20image%2020220912213050.png)
+- I've intentionally moved it off to the corner. I feel that voice assistants should be subtle in their location, and having it stuck in the middle would be confusing and weird for the user to use. 
+- I personally worked on the design for the favicon logo and the central logo for the program.
+	- The design features the logo of Siri, with inverted colours, surrounded by 1 thick circle and 2 thinner circles, under a chromatic background, with a plus symbol in the bottom right corner.
+		- The reasoning for the Siri logo is because Siri is a popular voice assistant, one which I am inspired by in its accessibility and ease of use.
+		- I feel the chromatic background will appeal to younger audiences, as it gives a sense of modernity. In doing so, I've attempted to entice young high-school students into using my program.
+		- The plus sign is found in other projects of mine, as an inside joke.
+		- The circles surrounding the Siri logo add a sense of modernity and class to the logo.
+
+Turning on the Program:
+![](000_Files/Pasted%20image%2020220912213713.png)
+![](000_Files/Pasted%20image%2020220912213732.png)
+- Here I've decided to use 2 windows, as otherwise I would have run into issues with removing the central logo image of the initial window.
+- I've included a little bit of code that **scales the height of the second window, relative to the number of accounts stored in the program**, so that the window can accommodate for as many account as can fit on the screen.
+
+User Selected
+![](000_Files/Pasted%20image%2020220912214001.png)
+
+
+- COMMENTS IN **ALGORITHM** CODE!!!
 4. Develop
 - See attached folder.
 6. Test

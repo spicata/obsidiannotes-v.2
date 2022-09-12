@@ -31,6 +31,7 @@ Plans for program:
 - POMO TIMER!!!!!!!!!!
 - **==BOXSTATUS FUNCTION DESTROYS IMAGE EVERY TIME, THIS IS INEFFICIENT. CONSIDER DEBUGGING LATER. THE ISSUE OCCURS WHEN .update() IS USED, WHICH MAKES THE IMAGE BLANK. THIS MAY BE FIXED BY REDEFINING THE IMAGE???==**
 - Idle stage, silently listens and when user asks for input return to main program
+- configure starting position?
 
 ### Rough Plan for files
 
