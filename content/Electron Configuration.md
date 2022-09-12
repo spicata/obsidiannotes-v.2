@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-Status: 
-
-Tags: 
-
-
 # Electron Configuration:
 
 
