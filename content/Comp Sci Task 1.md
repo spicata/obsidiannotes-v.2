@@ -32,8 +32,6 @@ Currently, there are 3 main software licences used by companies across the world
 	- *It should be noted that a crucial flaw with Permissive licences is that they do not guarantee the type of licence of derivative software, and thus can result in derivative programs that are not free or publicly available.*
 	- There are a few requirements for users of a program under a permissive licence, if they wish to redistribute the software:
 		- They must leave in the original copyright notice.
-		- They must essentially retain the same style of licence as the original program. 
-			- Essentially, any new software created from the initial software are as open-source as the original program.
 		- They must leave the initial licence text of the program, such as the one shown below:
 ```yaml {title="MIT License text"}
 
