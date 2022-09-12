@@ -35,8 +35,9 @@ Currently, there are 3 main software licences used by companies across the world
 		- They must essentially retain the same style of licence as the original program. 
 			- Essentially, any new software created from the initial software are as open-source as the original program.
 		- They must leave the initial licence text of the program, such as the one shown below:
-```ad-info
-title: MIT License text
+```
+yaml {title="MIT License text"}
+
 _Begin license text._
 
 ---
