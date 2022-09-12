@@ -14,4 +14,4 @@ The initial drop in cash rate was a direct response to the effects of the Covid-
 
 
 
-$\frac{d}{dx}(\sin\theta) =  $
+$\frac{d}{dx}(\sin\theta) =  { \cos\theta }$
