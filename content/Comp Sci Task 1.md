@@ -15,7 +15,7 @@ layout: default
 	- For example, when I am studying chemistry, I open Firefox, Obsidian and OneNote, and open textbooks I have on my computer. This takes valuable time, and reduces my overall efficiency when studying. I plan for my voice assistant to remove this inefficiency, by allowing custom commands, where if I were to say a key phrase, it would do all of these things at once, saving me crucial time.
 	- In the future, I also plan for the voice assistant to be a general tool in the office, for example it could send emails to large batches of fellow colleagues. 
 	- Furthermore, people who have used voice assistants before may demand high quality in graphical design of the program. Using Tkinter, I plan to provide a well-thought-out visual interface, however **I have used copyrighted images (Siri logo) for parts of the visual design**, as I feel its simplistic design fits my program, and I admire the quality of the Siri voice asssitant.
-- The program will fill its user's need for a simplistic, easy-to-learn voice assistant that will improve their productivity. It will also improve their quality of life, by helping its users achieve a healthy study schedule/routine.
+- The program will fill its user's need for a simplistic, easy-to-use voice assistant that will improve their productivity. It will also improve their quality of life, by helping its users achieve a healthy study schedule/routine.
 - The licencing used is the Permissive MIT licence, the reasoning for which is explained at the end of the Licencing section.
 
 **Licencing**
@@ -27,9 +27,9 @@ Currently, there are 3 main software licences used by companies across the world
 		- Apache Licence
 		- ISC Licence
 		- JSON Licence
-	- It is a kind of free-software licence, which means it is allows users to run the program the licence is attached to, analyse the code of the program, and most importantly redistribute modified version of the program under whatever licence fits. This essentially allows developers to configure a program how they see fit, and release their new program under a new licence.
+	- Permissive licences are a kind of free-software licence, which means it is allows users to run the program the licence is attached to, analyse the code of the program, and most importantly redistribute modified version of the program under whatever licence fits. This essentially allows developers to configure a program how they see fit, and release their new program under a new licence.
 	- Permissive licences are also very compatible with other licences, due to its minimal restrictions on the user.
-	- *It should be noted that a crucial flaw with Permissive licences is that they do not guarantee the type of licence of derivative software, and thus can result in derivate programs that are not free or publicly available.*
+	- *It should be noted that a crucial flaw with Permissive licences is that they do not guarantee the type of licence of derivative software, and thus can result in derivative programs that are not free or publicly available.*
 	- There are a few requirements for users of a program under a permissive licence, if they wish to redistribute the software:
 		- They must leave in the original copyright notice.
 		- They must essentially retain the same style of licence as the original program. 
