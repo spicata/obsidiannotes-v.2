@@ -16,7 +16,7 @@ layout: default
 	- In the future, I also plan for the voice assistant to be a general tool in the office, for example it could send emails to large batches of fellow colleagues. 
 	- Furthermore, people who have used voice assistants before may demand high quality in graphical design of the program. Using Tkinter, I plan to provide a well-thought-out visual interface, however **I have used copyrighted images (Siri logo) for parts of the visual design**, as I feel its simplistic design fits my program, and I admire the quality of the Siri voice asssitant.
 - The program will fill its user's need for a simplistic, easy-to-learn voice assistant that will improve their productivity. It will also improve their quality of life, by helping its users achieve a healthy study schedule/routine.
-- Having research many software licences, I have settled on using the MIT licence for my program. I believe this licence reflects my desires for the use of my program, as I hope that others can take the program and improve on it for their own use. I also believe that if their version of my voice assistant is both unique and helpful for others, that its developers should be able to relicense it.
+- The licencing used is the Permissive MIT licence, the reasoning for which is explained at the end of the Licencing section.
 
 **Licencing**
 Currently, there are 3 main software licences used by companies across the world:
@@ -74,6 +74,8 @@ _End license text._
 		- For example, Adobe licences used to be limited to one users, i.e. they could only be used on one computer at a time.
 	- Commercial and Proprietary licences are generally considered *closed-source*, as most Proprietary and Commercial programs are distributed in their **compiled form**, compared to **source code**.
 	- In general, Commercial and Proprietary licences also heavily restrict the redistribution of software. Where source code is available, some Proprietary and Commercial licences also restrict the distribution of modified source code.
+
+Having research many software licences, I have settled on using the MIT licence for my program. I believe this licence reflects my desires for the use of my program, as I hope that others can take the program and improve on it for their own use. I also believe that if their version of my voice assistant is both unique and helpful for others, that its developers should be able to relicense it.
 
 **Resources**
 The program is Python based, and relies on text files to store data. The program also requires a lot of modules for its basic function:
@@ -164,6 +166,10 @@ For there one, there is little graphical change, as all that is changed is the t
 **Graphics**
 - The program features *very* *minimalistic* graphics. This is because I felt it would be too much of a challenge to use and improve on the basic Tkinter graphics. Furthermore, I feel the simplistic design of the logo makes up for the lack of visual dynamics and contrast in the graphical interface of the program. 
 - I intended to use minimalistic graphics, as I believe that **the focus of a voice assistant should not be it's aesthetic beauty, but rather its functionality**. In using less engaging graphics, I hope that students will not be distracted by the program, and rather use the program to further improve their focus and productivity.
+
+**User Interface**
+- The user has 2 ways of interacting with the program:
+- 
 
 
 - COMMENTS IN **ALGORITHM** CODE!!!
