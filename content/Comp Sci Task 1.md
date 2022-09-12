@@ -169,7 +169,9 @@ For there one, there is little graphical change, as all that is changed is the t
 
 **User Interface**
 - The user has 2 ways of interacting with the program:
-- 
+	- Voice
+		- 
+	- Peripheral input (mouse)
 
 
 - COMMENTS IN **ALGORITHM** CODE!!!
