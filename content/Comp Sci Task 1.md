@@ -76,9 +76,9 @@ _End license text._
 	- In general, Commercial and Proprietary licences also heavily restrict the redistribution of software. Where source code is available, some Proprietary and Commercial licences also restrict the distribution of modified source code.
 
 **Resources:**
-The program is Python based, and relies on text files to store data. The program also requires a lot of module for its basic function.
+The program is Python based, and relies on text files to store data. The program also requires a lot of modules for its basic function:
 
-**Modules:**
+*Modules:*
 | Module Name        | Purpose                       | Importance          |
 | ------------------ | ----------------------------- | ------------------- |
 | tkinter            | GUI Design                    | Essential           |
@@ -89,6 +89,8 @@ The program is Python based, and relies on text files to store data. The program
 | fileinput          | Closing text files            | Low Importance      |
 | sys                | Debugging in console          | Low Importance      |
 | time               | Getting time for the user log | Low Importance                    |
+
+
 
 
 **Similar Products:**
