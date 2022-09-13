@@ -1,8 +1,8 @@
 ---
-title: "Ed's Obsidian Notes"
+layout: default
+title: "_index"
 ---
 # Hello!
-	
 
 > ¯\\\_(ツ)\_/¯ maybe this works maybe it doesnt, but christian choe based
 
