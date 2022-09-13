@@ -1,8 +1,8 @@
 ---
 layout: default
+title: "11AECHE Class 31"
 ---
-
-# Class 31
+# 11AECHE Class 31
 
 Substances that do not dissolve in water:
 	The strengths of ionic bonding is so great that ion dipole forces that form are not enough to break it.

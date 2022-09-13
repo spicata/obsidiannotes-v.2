@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "11AECHE Class 43"
 ---
-
 # 11AECHE Class 43
 
 **Enthalpy** - **thermal energy at constant pressure**

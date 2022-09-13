@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "11AECHE Class 42"
 ---
-
 # 11AECHE Class 42
 
 - Alkenes: **unsaturated hydrocarbons**, containing a single double bond between Carbon atoms

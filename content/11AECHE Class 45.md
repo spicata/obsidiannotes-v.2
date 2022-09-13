@@ -1,8 +1,7 @@
 ---
 layout: default
+title: "11AECHE Class 45"
 ---
-
-
 # 11AECHE Class 45
 
 **Empirical Formula for combustion:**

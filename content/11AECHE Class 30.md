@@ -1,9 +1,8 @@
 ---
 layout: default
+title: "11AECHE Class 30"
 ---
-
-
-# Class 30
+# 11AECHE Class 30
 
 -   **Solution concentration**
 -   **Moles per litre (molarity) mol $L^{-1}$:** $c = \frac{n}{v}$

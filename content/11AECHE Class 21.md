@@ -1,9 +1,8 @@
 ---
 layout: default
+title: "11AECHE Class 21"
 ---
-
-
-# Class 21
+# 11AECHE Class 21
 
 **VSEPR:** 
 * The four pairs of electrons around a central atom repel each other.

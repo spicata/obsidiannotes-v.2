@@ -1,9 +1,8 @@
 ---
 layout: default
+title: "11AECHE Class 25"
 ---
-
-
-# Class 25
+# 11AECHE Class 25
 
 
 **Empirical formula:** Simplest whole number ratio of atoms (of each element) in a compound/molecule

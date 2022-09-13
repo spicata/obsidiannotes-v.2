@@ -1,9 +1,8 @@
 ---
 layout: default
+title: "11AECHE Class 28"
 ---
-
-
-# Class 28
+# 11AECHE Class 28
 
 **Dispersion forces:**
 * Non-polar molecules/atoms have small, **temporary, fluctuating dipoles** due to random movement of electrons.

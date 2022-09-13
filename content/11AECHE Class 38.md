@@ -1,9 +1,9 @@
 ---
 layout: default
+title: "11AECHE Class 38"
 ---
-
-
 # 11AECHE Class 38
+
 
 1 mole of any gas will occupy 22.71 L at STP (Standard temperature and pressures)
 

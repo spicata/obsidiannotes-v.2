@@ -1,8 +1,8 @@
 ---
 layout: default
+title: "11AECHE Class 36"
 ---
-
-# AECHE Class 36
+# 11AECHE Class 36
 
 **Acid + Bases**
 ```ad-info

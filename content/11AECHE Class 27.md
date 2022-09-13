@@ -1,9 +1,8 @@
 ---
 layout: default
+title: "11AECHE Class 27"
 ---
-
-
-# Class 27
+# 11AECHE Class 27
 
 **Types of Intermolecular Forces**:
 Note: Intermolecular means *between* molecules.

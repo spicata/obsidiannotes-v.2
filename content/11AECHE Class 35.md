@@ -1,8 +1,7 @@
 ---
 layout: default
+title: "11AECHE Class 35"
 ---
-
-
 # 11AECHE Class 35
 
 **Brønsted–Lowry model:**

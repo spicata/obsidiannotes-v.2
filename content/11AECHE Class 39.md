@@ -1,8 +1,9 @@
 ---
 layout: default
+title: "11AECHE Class 39"
 ---
+# 11AECHE Class 39
 
-# AECHE Class 39
 
 Organic Chemistry:
 - Refers to carbon compounds

@@ -1,9 +1,9 @@
 ---
 layout: default
+title: "11AECHE Class 37"
 ---
+# 11AECHE Class 37
 
-
-# AECHE Class 37
 
 Definition of pH: $-log[H^+]$
 - $[H^+]$ concentration in mol L$^{-1}$

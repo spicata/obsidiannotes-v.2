@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "11AECHE Class 44"
 ---
-
 # 11AECHE Class 44
 
 Particles need minimum amount of energy to collide successfully and react, this is called activation energy.

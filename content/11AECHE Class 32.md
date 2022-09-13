@@ -1,9 +1,8 @@
 ---
 layout: default
+title: "11AECHE Class 32"
 ---
-
-
-# Class 32
+# 11AECHE Class 32
 
 **Solubility Curves:**
 * Solubility curves show the solubility of substances as temperature changes.

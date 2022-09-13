@@ -1,8 +1,8 @@
 ---
 layout: default
+title: "11AECHE Class 26"
 ---
-
-# Class 26
+# 11AECHE Class 26
 
 Moles and Stoichiometry:
 * Water: 0.24978

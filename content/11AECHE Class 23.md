@@ -1,9 +1,9 @@
 ---
 layout: default
+title: "11AECHE Class 23"
 ---
+# 11AECHE Class 23
 
-
-# Class 23
 
 **HOMEWORK:**
 * Revise atomic spectra

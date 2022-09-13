@@ -1,8 +1,8 @@
 ---
 layout: default
+title: "11AECHE Class 17"
 ---
-
-# Class 17
+# 11AECHE Class 17
 
 
 ## Notes

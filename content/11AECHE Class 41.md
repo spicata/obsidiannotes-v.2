@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "11AECHE Class 41"
 ---
-
 # 11AECHE Class 41
 
 Properties of Alkanes

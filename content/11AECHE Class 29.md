@@ -1,8 +1,8 @@
 ---
 layout: default
+title: "11AECHE Class 29"
 ---
-
-# Class 29
+# 11AECHE Class 29
 
 Intermolecular forces quiz:
 

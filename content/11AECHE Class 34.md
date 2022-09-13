@@ -1,8 +1,7 @@
 ---
 layout: default
+title: "11AECHE Class 34"
 ---
-
-
 # 11AECHE Class 34
 
 Acids:

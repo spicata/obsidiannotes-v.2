@@ -1,8 +1,8 @@
 ---
 layout: default
+title: "11AECHE Class 40"
 ---
-
-# AECHE Class 40
+# 11AECHE Class 40
 
 C-C and C-H bonds are considered **non-polar**.
 
