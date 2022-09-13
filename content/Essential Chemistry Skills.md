@@ -1,7 +1,7 @@
 ---
 layout: default
-
+title: "Essential Chemistry Skills"
 ---
-Status: 
+# Essential Chemistry Skills
 
-Tags: 
+sorry i dont have any skills :(
