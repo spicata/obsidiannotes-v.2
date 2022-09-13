@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Comp Sci Task 1"
 ---
 # Comp Sci Task 1
 

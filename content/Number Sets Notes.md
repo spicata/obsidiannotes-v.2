@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Number Sets Notes"
 ---
-
 # Number Sets Notes
 
 Here is a pretty good set diagram I stole from the internet:

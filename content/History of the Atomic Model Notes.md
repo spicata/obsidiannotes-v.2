@@ -1,8 +1,8 @@
 ---
 layout: default
+title: "History of the Atomic Model Notes"
 ---
-
-# History of the Atomic Model
+# History of the Atomic Model 
 
 **Democritus** (460 - 370 BCE) describes matter as **infinitely** divisible and proposes matter is made up for **tiny indivisible particles, with nothing between them but empty space.** He names these particles “Atomos”, which means “uncuttable or indivisible” in Greek.
     

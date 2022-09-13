@@ -1,6 +1,8 @@
 ---
 layout: default
+title: "Comp Sci 3"
 ---
+# Comp Sci 3
 
 ## Types of Error:
 - **Syntax**

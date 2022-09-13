@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Differentiation Notes"
 ---
-
 # Differentiation Notes
 
 Essentially, calculus is about finding the gradient of stuff. But, some equations don’t really have simple gradients like linear equations.

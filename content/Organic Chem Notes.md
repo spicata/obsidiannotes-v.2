@@ -1,8 +1,9 @@
 ---
 layout: default
+title: "Organic Chem Notes"
 ---
-
 # Organic Chem Notes
+
 ---
 ### Key Definitions
 - *Organic Chemistry*: The study of carbon-containing compounds (e.g. $CH_4$)

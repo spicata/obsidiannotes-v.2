@@ -1,9 +1,8 @@
 ---
 layout: default
+title: "Econ Class 6"
 ---
-
 # Econ Class 6
-
 ```ad-important
 
 **What are the differences between communism and socialism? Important for test**

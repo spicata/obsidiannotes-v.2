@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Econ Class 10"
 ---
-
 # Econ Class 10
 
 Given data (RBA), what should government do??

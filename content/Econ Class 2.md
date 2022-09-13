@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Econ Class 2"
 ---
-	
 # Econ Class 2
 
 ### Adam Smith:

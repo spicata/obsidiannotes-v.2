@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Econ Class 7"
 ---
-
 # Econ Class 7
 
 ```ad-important

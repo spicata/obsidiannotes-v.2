@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Econ Class 11"
 ---
-
 # Econ Class 11
 
 ### Aggregate Demand and Supply

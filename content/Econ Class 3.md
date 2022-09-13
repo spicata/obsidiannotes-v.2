@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Econ Class 3"
 ---
-
 # Econ Class 3
 
 ### John Maynard Keynes

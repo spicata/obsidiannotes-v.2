@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Comp Sci 5"
 ---
 # Comp Sci 5
 

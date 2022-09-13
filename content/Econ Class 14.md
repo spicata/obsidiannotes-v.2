@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Econ Class 14"
 ---
-
 # Econ Class 14
 
 ## Monetary Policy:

@@ -1,9 +1,8 @@
 ---
 layout: default
+title: "Econ Class 4"
 ---
-
 # Econ Class 4
-
 
 **Understanding Types of Economic Systems**:
 - Can government run an economy? *This is the main idea around economic systems.*

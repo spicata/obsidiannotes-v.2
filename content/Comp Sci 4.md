@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Comp Sci 4"
 ---
-
 # Comp Sci 4
 
 *Trace tables* are used to locate **logic errors**, while *compilers* find **syntax** or **runtime** errors (*sometimes it doesn't work :(*)

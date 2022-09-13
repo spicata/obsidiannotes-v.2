@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Econ Class 1"
 ---
-
 # Econ Class 1
 
 

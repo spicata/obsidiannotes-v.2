@@ -1,6 +1,8 @@
 ---
 layout: default
+title: "Comp Sci 1"
 ---
+# Comp Sci 1
 
 Algorithms have a **control structure**.
 

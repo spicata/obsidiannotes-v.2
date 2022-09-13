@@ -1,7 +1,8 @@
 ---
 layout: default
+title: "Comp Sci 2"
 ---
-
+# Comp Sci 2
 Flowcharts should be clear and concise.
 
 **Pseudocode**:

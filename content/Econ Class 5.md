@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Econ Class 5"
 ---
-
 # Econ Class 5
 
 Strengths of Socialism:

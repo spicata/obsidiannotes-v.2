@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Econ Class 12"
 ---
-
 # Econ Class 12
 
 ## Difference between Discretionary and Non-Discretionary Fiscal Policy

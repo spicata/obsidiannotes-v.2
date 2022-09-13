@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Sadler 1 Notes"
 ---
-
 # Sadler 1 Notes
 
 **Preliminary Notes:**

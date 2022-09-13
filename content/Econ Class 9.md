@@ -1,8 +1,9 @@
 ---
 layout: default
+title: "Econ Class 9"
 ---
-
 # Econ Class 9
+
 ## BTC (Business Trade Cycle):
 - Fluctuations in the **rate of growth**(*growth rate*) of real output.
 - Sometimes it expands, and sometimes it contrasts, the rate at which it expands or contracts is changing.

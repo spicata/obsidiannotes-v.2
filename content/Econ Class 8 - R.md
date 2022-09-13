@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Econ Class 8 - R"
 ---
-
 # Econ Class 8 - Revision
 
 - [ ] What is economics and why you should study it

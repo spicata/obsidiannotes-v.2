@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Brilliant Course Complex Numbers"
 ---
-
 # Brilliant Course Complex Numbers
 
 NOTE: Read the [[Number Sets Notes]] page before starting here. 
