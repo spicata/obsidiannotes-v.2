@@ -1,8 +1,9 @@
 ---
 layout: default
+title: "11AECHE Class 10"
 ---
+# 11AECHE Class 10
 
-# Class 10
 
 
 ## Notes

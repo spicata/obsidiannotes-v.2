@@ -1,7 +1,8 @@
 ---
 layout: default
+title: "11AECHE Class 3"
 ---
-# Class 3
+# 11AECHE Class 3
 
 
 ## Notes

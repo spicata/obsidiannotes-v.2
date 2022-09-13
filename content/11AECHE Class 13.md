@@ -1,8 +1,8 @@
 ---
 layout: default
+title: "11AECHE Class 13"
 ---
-
-# Class 13
+# 11AECHE Class 13
 
 ## Notes
 Electron configuration:

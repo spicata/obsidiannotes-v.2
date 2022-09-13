@@ -1,9 +1,8 @@
 ---
 layout: default
+title: "11AECHE Class 12"
 ---
-
-# Class 12
-
+# 11AECHE Class 12
 
 ## Notes
 Limitations of the flame test:
