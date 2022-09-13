@@ -5,7 +5,7 @@ title: "Comp Sci 5"
 # Comp Sci 5
 
 Plans for program:
-- log all communication
+- ~~log all communication~~
 - save user data, so dont have to ask for name on start up
 	- save startup routine? voice assistant follows specific instructions for startup
 - add better functions
