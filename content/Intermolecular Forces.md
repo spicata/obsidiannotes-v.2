@@ -1,8 +1,5 @@
 ---
 layout: default
+title: "Intermolecular Forces"
 ---
-Status: 
-
-Tags: 
-
-![[notes/aww yea baby yr 12 examination lets goooo.png]]
+# Intermolecular Forces

@@ -1,6 +1,6 @@
 ---
 layout: default
+title: "Atomic Structure - Development of the Atomic Model"
 ---
-Status: 
+# Atomic Structure - Development of the Atomic Model
 
-Tags: 

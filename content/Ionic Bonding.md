@@ -1,6 +1,5 @@
 ---
 layout: default
+title: "Ionic Bonding"
 ---
-Status: 
-
-Tags: 
+# Ionic Bonding

@@ -1,6 +1,5 @@
 ---
 layout: default
+title: "Solubility"
 ---
-Status: 
-
-Tags: 
+# Solubility

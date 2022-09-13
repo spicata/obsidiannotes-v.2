@@ -1,13 +1,11 @@
 ---
 layout: default
+title: "Metallic Bonding"
 ---
-Status: 
-
-Tags: 
-
+# Metallic Bonding
 
 
 
 ## Related Class Notes
 
-* [[Class 17]]
+* [11AECHE Class 17](11AECHE%20Class%2017.md)

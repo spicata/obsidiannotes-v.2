@@ -1,10 +1,7 @@
 ---
 layout: default
+title: "Chromatography"
 ---
-Status: 
-
-Tags: 
-
 # Chromatography
 
 Chromatography is a laboratory technique for **separation** and **identification**.

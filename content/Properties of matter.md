@@ -1,17 +1,8 @@
 ---
 layout: default
+title: "Properties of matter"
 ---
-
-*Date: 20220312 Time: 1941*
-
-
-Status: 
-
-Tags: 
-
-
 # Properties of matter
-
 
 ## Notes
 

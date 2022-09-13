@@ -1,9 +1,8 @@
 ---
 layout: default
+title: "The Periodic Table"
 ---
-Status: 
-
-Tags: 
+# The Periodic Table
 
 Period number is equal the the electron shell that an element's valency electrons occupy. E.g. in period 2, the valence electrons are on the n = 2 shells.
 

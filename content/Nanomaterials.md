@@ -1,11 +1,9 @@
 ---
 layout: default
+title: "Nanomaterials"
 ---
-Status: 
+# Nanomaterials
 
-Tags: 
-
-## Notes
 
 Pearson:
 
