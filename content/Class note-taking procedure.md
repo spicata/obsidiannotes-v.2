@@ -1,8 +1,8 @@
 ---
 layout: default
+title: "Class note-taking procedure"
 ---
-
-# Class Note-taking procedure
+# Class note-taking procedure
 
 **This is using chemistry as an example.**
 1. Open [[11AECHE Class Notes]]
