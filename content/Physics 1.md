@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Physics 1"
 ---
-
 # Physics 1
 
 Neutrons help stabilise the nucleus, and help create the strong nuclear force.
