@@ -88,7 +88,8 @@ The program is Python based, and relies on text files to store data. The program
 | atexit             | Running code when script ends | Moderate Importance |
 | fileinput          | Closing text files            | Low Importance      |
 | sys                | Debugging in console          | Low Importance      |
-| time               | Getting time for the user log | Low Importance                    |
+| time               | Getting time for the user log | Low Importance      |
+| Open Ai            | Does cool commands for user   | Low Importance                    |
 
 There is minimal equipment requirements for the creation and development of this program. I used a relatively high-end Dell XPS-15 and Visual Studio Code for the development of the software. However, I had to install Python 3.10, and also all the modules listed above through PIP installation.
 
