@@ -3,7 +3,6 @@ layout: default
 ---
 
 # Chem Published Notes
-
 - [[Chemistry Stoichiometry Notes|Stoich Notes]]
 - [[Organic Chem Notes|Organic Chem Guide]]
 - [[History of the Atomic Model Notes]]

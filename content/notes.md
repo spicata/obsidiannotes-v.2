@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 # Notes
 
 Here are some fast links to some subjects you may be interested in. Note that if I've done this correctly, you should be able to get to any of my obsidian notes using this page.

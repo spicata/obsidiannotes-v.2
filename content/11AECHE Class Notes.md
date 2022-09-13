@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 # Chem Class Notes (Yr 11)
 
 - [[11AECHE Class 1]]

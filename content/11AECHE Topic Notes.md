@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 # Chem Topic Notes (Yr 11)
 
 - [[Essential Chemistry Skills|Essential Chemistry Skills]]

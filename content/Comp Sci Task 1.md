@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 # Comp Sci Task 1
 
 1. State the problem

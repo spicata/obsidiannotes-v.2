@@ -1,7 +1,6 @@
 ---
 title: "Ed's Obsidian Notes"
 ---
-
 # Hello!
 	
 
