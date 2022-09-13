@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "11AECHE Published Notes"
 ---
-
 # Chem Published Notes
 - [[Chemistry Stoichiometry Notes|Stoich Notes]]
 - [[Organic Chem Notes|Organic Chem Guide]]
