@@ -182,6 +182,7 @@ For here onwards, there is little graphical change, as all that is changed is th
 ![](000_Files/voice%20command%20flowchart%201.png)
 **Algorithms: Pseudocode**
 ```yaml {title='Voice Command Code'}
+# Note all the notequal signs are ! + = signs.
 BEGIN
 Exit <- "False"
 WHILE Exit != "True"
@@ -213,6 +214,7 @@ END
 ```
 
 ```yaml {title='Account Selection Code'}
+# Note all the notequal signs are ! + = signs.
 BEGIN
 INPUT(accountdata)
 name <- None
@@ -242,7 +244,7 @@ ELSE:
 END
 ```
 
-- COMMENTS IN **ALGORITHM** CODE!!!
+
 4. Develop
 - See attached folder.
 6. Test
