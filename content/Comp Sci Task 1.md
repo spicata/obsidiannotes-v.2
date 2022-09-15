@@ -91,7 +91,7 @@ The program is Python based, and relies on text files to store data. The program
 | fileinput          | Closing text files            | Low Importance      |
 | sys                | Debugging in console          | Low Importance      |
 | time               | Getting time for the user log | Low Importance      |
-| Open Ai            | Does cool commands for user   | Low Importance                    |
+| Open Ai            | Does cool commands for user   | Essential           | 
 
 There is minimal equipment requirements for the creation and development of this program. I used a relatively high-end Dell XPS-15 and Visual Studio Code for the development of the software. However, I had to install Python 3.10, and also all the modules listed above through PIP installation.
 
@@ -132,7 +132,7 @@ for i in accountdata:
         button.pack()
 ```
 
-**Similar Products**
+**Similar Products (samples)**
 - *Alexa*
 	- Amazon's Alexa excels in its compatibility with many operating systems, such iOS and Android. It also has numerous unique commands, and even includes voice commands that can change settings. I have considered using voice-activated commands to change settings, but I feel there is simply not enough settings to change, and it would be redundant. Furthermore, as the program is a python file, it is generally incompatible with most computers, considering the amount of modules it relies on.
 - *Google Assistant*
@@ -293,9 +293,7 @@ OUTPUT(name)
 END
 ```
 
-4. Develop
-- See attached folder.
-6. Test
+3. Test
 
 **Trace Table for Voice Commands** (bold indicates new sample)
 | audioInput               | query                  | program understood | openAIKey   | openAIInput        | openAIOutput                                                                                                         | Output                                                                                                               |
@@ -331,11 +329,14 @@ END
 | what is porridge         | "what is porridge"     | False              | "valid key" | "what is porridge" | Porridge is a type of food made by boiling oats or other grains in water or milk. It is usually eaten for breakfast. |                                                                                                                      |
 | what is porridge         | "what is porridge"     | False              | "valid key" | "what is porridge" | Porridge is a type of food made by boiling oats or other grains in water or milk. It is usually eaten for breakfast. | Porridge is a type of food made by boiling oats or other grains in water or milk. It is usually eaten for breakfast. |
  
-8. Evaluate
+4. Evaluate
+
+I have 
 
 LIMITATIONS
 - no custom commands
 - account interface does nothing
 - openai is necessary when it should be voluntary
 - very little amount of actual features
+- for some reason the text boxes don't align even though its in their code, this is trivial issue
 
