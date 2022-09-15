@@ -9,7 +9,7 @@ The RBA changed cash rate, which influences interest rates.
 
 The change in **interest rates** translates through an economy. This is what we analyse.
 
-It is transmitted through 4 channels:
+It is transmitted through 3 main channels:
 - Consumption/Saving and Investment
 	- When RBA **raises** cash rate, the banks (Commonwealth, ANZ, etc.) will raise interest rates, *on savings and loans*. They can only change interest rates for savings and loans. 
 	- This changes **new savings/loans!!!**
@@ -36,6 +36,12 @@ It is transmitted through 4 channels:
 
 ***THE GOAL OF MONETARY POLICY: TO CONTROL INFLATIONARY PRESSURE!!!!!***
 Target Rate: 2-3%!
+
+NO NEED TO DO EXCHANGE RATE CHANNEL!!! :)
+
+$\mathcal{L}=- \frac{1}{4}B_{\mu v}- \frac{1}{8}tr(\mathbf{W}_{\mu v}\mathbf{W}^{\mu v})-\frac{1}{2}tr(\mathbf{G}_{\mu v}\mathbf{G}^{\mu v})+(\overline{v}_{L},\overline{e}_{L})$
+
+
 
 
 
