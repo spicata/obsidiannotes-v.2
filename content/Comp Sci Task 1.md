@@ -293,8 +293,9 @@ END
 6. Test
 
 **Trace Table for Voice Commands**
-| audioInput | query | 
+| audioInput | query |
 | ---------- | ----- |
+|            |       |
 
 - Trace table with **sample data**!!!
 8. Evaluate
