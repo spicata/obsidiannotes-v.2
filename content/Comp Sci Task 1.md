@@ -2,6 +2,7 @@
 ---
 layout: default
 title: "Comp Sci Task 1"
+enableToc: false
 ---
 # Comp Sci Task 1
 
