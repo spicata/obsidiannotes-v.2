@@ -387,11 +387,29 @@ However, the task was quite tiring and due to time constraints, I was unable to 
 
 I think that while the voice assistant is relatively quite functional, in that it can in fact open specific programs and answer intrinsic questions through OpenAI, due to time constraints I was unable to implement custom functions, which was the main goal of the program. However, the inclusion of OpenAI does make up for this lack of features, as OpenAI's API is quite powerful, and can answer very hard questions such as "What are 3 important things to remember when studying organic chemistry" with responses such as:
 
-LIMITATIONS
-- no custom commands
-- account interface does nothing
-- openai is necessary when it should be voluntary
-- very little amount of actual features
-- for some reason the text boxes don't align even though its in their code, this is trivial issue
-- no settings
+```yaml {title='OpenAI Response'}
+1. Organic chemistry is the study of the structure, properties, and reactivity of organic compounds.
+2. Organic compounds are molecules that contain carbon atoms.
+3. Carbon atoms can form bonds with other carbon atoms, as well as with atoms of other elements.
+```
+
+This detail in responses from OpenAI makes up for some of the lack of functionality, however I do consider my endeavours in creating a voice assistant with substantial utility not as successful as I had hoped.
+
+Furthermore, the following are some limitations I've derived from my program:
+- No custom commands
+- Account interface is quite redundant
+- OpenAI is necessary when it should be voluntary
+- Very little amount of actual features
+- For some reason the text boxes don't align even though its in their code, this is a trivial issue
+- No settings window
+
+However, there are also some good quality of the program:
+- Minimalistic design
+- Can open Obsidian
+- Can open Firefox
+- Can answer questions through OpenAI
+- Has an account system
+- Saves user data in text file
+
+In summary, I feel that my project was a great effort in working in the shoes of greater voice assistants which were developed with a lot more funding(and incentive). As a result of time constraints, I fell short of the ultimate goal of a successful, well-designed voice assistant, yet the end product has a lot of potential and could be developed into a very user-friendly, intuitive program.
 
