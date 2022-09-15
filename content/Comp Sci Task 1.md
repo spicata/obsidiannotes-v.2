@@ -75,7 +75,7 @@ _End license text._
 	- Commercial and Proprietary licences are generally considered *closed-source*, as most Proprietary and Commercial programs are distributed in their **compiled form**, compared to **source code**.
 	- In general, Commercial and Proprietary licences also heavily restrict the redistribution of software. Where source code is available, some Proprietary and Commercial licences also restrict the distribution of modified source code.
 
-Having research many software licences, I have settled on using the MIT licence for my program. I believe this licence reflects my desires for the use of my program, as I hope that others can take the program and improve on it for their own use. I also believe that if their version of my voice assistant is both unique and helpful for others, that its developers should be able to relicense it.
+*Having research many software licences, I have settled on using the MIT licence for my program. I believe this licence reflects my desires for the use of my program, as I hope that others can take the program and improve on it for their own use. I also believe that if their version of my voice assistant is both unique and helpful for others, that its developers should be able to relicense it.*
 
 **Resources**
 The program is Python based, and relies on text files to store data. The program also requires a lot of modules for its basic function:
