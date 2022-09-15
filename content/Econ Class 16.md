@@ -17,7 +17,11 @@ It is transmitted through 4 channels:
 		- Business loans, loans for businesses for investment
 	- This is why its called savings and investment channel, as loans tend to be considered for investments.
 	- Increasing cash rates, mean interest rates increase. This means borrowing money costs more, and thus people are less inclined to borrow.
-	- 
+	- You can get fixed rates for mortgages, but have some inclusions (e.g. the interest rate for this is higher than the current variable rate)
+	- There is a profit margin, i.e. even if the cash rate is 0.1%, banks will still have variable rate of 2-3%, as this is how they make money.
+	- When you save, the money goes in a bank, which is loaned out at a higher rate than your savings interest rate. 
+	- Thus, when cash rate increases, savings increase while loaning decrease.
+	- Thus, aggregate demand decreases as people tend to save their money rather than loan to buy things like houses.
 - Wealth
 - Balance sheet and cash flow
 
