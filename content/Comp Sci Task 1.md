@@ -179,29 +179,45 @@ For here onwards, there is little graphical change, as all that is changed is th
 **Algorithms: Flowcharts**
 ![](000_Files/Untitled%20Diagram.png)
 
-![](000_Files/voice%20command%20flowchart.png)
+![](000_Files/voice%20command%20flowchart%201.png)
 **Algorithms: Pseudocode**
 ```yaml {title='Voice Command Code'}
 BEGIN
-Exit <- False
-WHILE Exit ==
-OUTPUT("Listening")
-
-INPUT(command)
-IF command == None 
-
-
-```
-5.   
-BEGIN  
-INPUT(Hours worked, Payrate)  
-IF Hours worked > 40 THEN:  
-Overtime <- Hours worked - 40  
-Pay = Payrate(40 + (Overtime * 1.5))  
-ELSE:  
-Pay = Payrate * Hours worked  
-OUTPUT(Pay)  
+Exit <- "False"
+WHILE Exit != "True"
+	OUTPUT("Listening")
+	
+	INPUT(command)
+	IF command == None THEN:
+		OUTPUT("Failed to understand, will try again.")
+		OUTPUT("What would you like to do?")
+	ELIF "obsidian" IN command THEN:
+		openObsidian()
+		OUTPUT("What would you like to do?")
+	ELIF "Firefox" IN command THEN:
+		openFirefox()
+		OUTPUT("What would you like to do?")
+	ELIF "close" IN command THEN:
+		closeProgram()
+		Exit = "True"
+	ELSE:
+		key <- "this is a working OpenAI key"
+		answer = putThroughOpenAI(key)
+		IF answer == None:
+			OUTPUT("OpenAI didn't understand.")
+			OUTPUT("What would you like to do?")
+		ELSE:
+			OUTPUT(answer)
+			OUTPUT("What would you like to do?")
 END
+```
+
+```yaml {title='Account Selection Code'}
+BEGIN
+INPUT(accountdata)
+IF len(accountdata)
+END
+```
 
 - COMMENTS IN **ALGORITHM** CODE!!!
 4. Develop
