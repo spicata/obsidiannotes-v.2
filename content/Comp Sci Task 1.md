@@ -215,7 +215,30 @@ END
 ```yaml {title='Account Selection Code'}
 BEGIN
 INPUT(accountdata)
-IF len(accountdata)
+name <- None
+IF len(accountdata) == 0 THEN:
+	OUTPUT("No Users Detected")
+	INPUT(name)
+	accountdata[0] = name
+	OUTPUT(name)
+ELIF len(accountdata) == 1 THEN:
+	name = accountdata[0]
+	OUTPUT(name)
+ELSE:
+	answer <- "No"
+	count <- 0
+	WHILE answer != "Yes" OR count == len(accountdata):
+		OUTPUT("Is this your name?")
+		OUTPUT(accountdata[count])
+		INPUT(answer)
+		count = count + 1
+	IF answer == "Yes" THEN:
+		name = accountdata(count - 1)
+		OUTPUT(name)
+	ELSE:
+		OUTPUT("You chose none of them, let's try again.")
+		answer <- "No"
+		count <- 0
 END
 ```
 
