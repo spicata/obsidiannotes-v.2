@@ -17,7 +17,8 @@ title: "Comp Sci Task 1"
 	- In the future, I also plan for the voice assistant to be a general tool in the office, for example it could send emails to large batches of fellow colleagues. 
 	- Furthermore, people who have used voice assistants before may demand high quality in graphical design of the program. Using Tkinter, I plan to provide a well-thought-out visual interface, however **I have used copyrighted images (Siri logo) for parts of the visual design**, as I feel its simplistic design fits my program, and I admire the quality of the Siri voice asssitant.
 - The program will fill its user's need for a simplistic, easy-to-use voice assistant that will improve their productivity. It will also improve their quality of life, by helping its users achieve a healthy study schedule/routine.
-- The licencing used is the Permissive MIT licence, the reasoning for which is explained at the end of the Licencing section.
+- The licencing used is the Permissive MIT licence, the reasoning for which is explained at the end of the Licencing section
+- Having published the project to GitHub, anyone who wishes to modify my code through GitHub will automatically follow the licencing requirements of the MIT licence. Their programs should contain the original copyright notice and a copy of the original MIT licence.
 
 **Licencing**
 Currently, there are 3 main software licences used by companies across the world:
@@ -180,7 +181,27 @@ For here onwards, there is little graphical change, as all that is changed is th
 
 ![](000_Files/voice%20command%20flowchart.png)
 **Algorithms: Pseudocode**
+```yaml {title='Voice Command Code'}
+BEGIN
+Exit <- False
+WHILE Exit ==
+OUTPUT("Listening")
 
+INPUT(command)
+IF command == None 
+
+
+```
+5.   
+BEGIN  
+INPUT(Hours worked, Payrate)  
+IF Hours worked > 40 THEN:  
+Overtime <- Hours worked - 40  
+Pay = Payrate(40 + (Overtime * 1.5))  
+ELSE:  
+Pay = Payrate * Hours worked  
+OUTPUT(Pay)  
+END
 
 - COMMENTS IN **ALGORITHM** CODE!!!
 4. Develop
