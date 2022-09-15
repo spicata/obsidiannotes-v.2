@@ -385,7 +385,7 @@ Overall, I consider this project to be a success. As someone who has only used r
 
 However, the task was quite tiring and due to time constraints, I was unable to maintain clarity and conciseness in the source code. I feel that there is quite a lot of inefficiency and redundancy in my source code, such as creating a function for specific windows, however I found this was the only solution at the time due to issues encountered with Tkinter.
 
-I think that while the voice assistant is relatively quite functional, in that it can in fact open specific programs and answer intrinsic questions through OpenAI, due to time constraints I was unable to implement custom functions, which was the main goal of the program. However, the inclusion of OpenAI does make up for this lack of features, as OpenAI's API is quite powerful, and can answer very hard questions such as "What are 3 important things to remember when studying organic chemistry"
+I think that while the voice assistant is relatively quite functional, in that it can in fact open specific programs and answer intrinsic questions through OpenAI, due to time constraints I was unable to implement custom functions, which was the main goal of the program. However, the inclusion of OpenAI does make up for this lack of features, as OpenAI's API is quite powerful, and can answer very hard questions such as "What are 3 important things to remember when studying organic chemistry" with responses such as:
 
 LIMITATIONS
 - no custom commands
