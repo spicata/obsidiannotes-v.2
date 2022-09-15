@@ -293,21 +293,39 @@ END
 6. Test
 
 **Trace Table for Voice Commands**
-| audioInput           | query                  | openAIKey | openAIInput | openAIOutput | Output           |
-| -------------------- | ---------------------- | --------- | ----------- | ------------ | ---------------- |
-| obsidian             |                        |           |             |              |                  |
-|                      | "obsidian"             |           |             |              |                  |
-|                      |                        |           |             |              | openObsidian()   |
-| fire fox             |                        |           |             |              |                  |
-|                      | "Firefox"              |           |             |              |                  |
-|                      |                        |           |             |              | openFirefox()    |
-| close program please |                        |           |             |              |                  |
-|                      | "close program please" |           |             |              |                  |
-|                      |                        |           |             |              | closeProgram()   |
-| restart if you want  |                        |           |             |              |                  |
-|                      | "restart if you want"  |           |             |              |                  |
-|                      |                        |           |             |              | restartProgram() |
-|                      |                        |           |             |              |                  |
+| audioInput           | query                  | program understood | openAIKey   | openAIInput      | openAIOutput | Output           |
+| -------------------- | ---------------------- | ------------------ | ----------- | ---------------- | ------------ | ---------------- |
+| obsidian             |                        |                    |             |                  |              |                  |
+| obsidian             | "obsidian"             |                    |             |                  |              |                  |
+| obsidian             | "obsidian"             | True               |             |                  |              | openObsidian()   |
+| obsidian             | "obsidian"             | True               |             |                  |              |                  |
+| fire fox             |                        |                    |             |                  |              |                  |
+| fire fox             | "Firefox"              |                    |             |                  |              |                  |
+| fire fox             | "Firefox"              | True               |             |                  |              |                  |
+| fire fox             | "Firefox"              | True               |             |                  |              | openFirefox()    |
+| close program please |                        |                    |             |                  |              |                  |
+| close program please | "close program please" |                    |             |                  |              |                  |
+| close program please | "close program please" | True               |             |                  |              |                  |
+| close program please | "close program please" | True               |             |                  |              | closeProgram()   |
+| restart if you want  |                        |                    |             |                  |              |                  |
+| restart if you want  | "restart if you want"  |                    |             |                  |              |                  |
+| restart if you want  | "restart if you want"  | True               |             |                  |              |                  |
+| restart if you want  | "restart if you want"  | True               |             |                  |              | restartProgram() |
+| what is 9 times 10   |                        |                    |             |                  |              |                  |
+| what is 9 times 10   | "what is 9 x 10"       |                    |             |                  |              |                  |
+| what is 9 times 10   | "what is 9 x 10"       | False              |             |                  |              |                  |
+| what is 9 times 10   | "what is 9 x 10"       | False              | "valid key" |                  |              |                  |
+| what is 9 times 10   | "what is 9 x 10"       | False              | "valid key" | "what is 9 x 10" |              |                  |
+| what is 9 times 10   | "what is 9 x 10"       | False              | "valid key" | "what is 9 x 10" | 90           |                  |
+| what is 9 times 10   | "what is 9 x 10"       | False              | "valid key" | "what is 9 x 10" | 90           | 90               |
+| what is 9 times 10   |                        |                    |             |                  |              |                  |
+| what is the  | "what is 9 x 10"       |                    |             |                  |              |                  |
+| what is 9 times 10   | "what is 9 x 10"       | False              |             |                  |              |                  |
+| what is 9 times 10   | "what is 9 x 10"       | False              | "valid key" |                  |              |                  |
+| what is 9 times 10   | "what is 9 x 10"       | False              | "valid key" | "what is 9 x 10" |              |                  |
+| what is 9 times 10   | "what is 9 x 10"       | False              | "valid key" | "what is 9 x 10" | 90           |                  |
+| what is 9 times 10   | "what is 9 x 10"       | False              | "valid key" | "what is 9 x 10" | 90           | 90               |
+ 
 
 - Trace table with **sample data**!!!
 8. Evaluate
