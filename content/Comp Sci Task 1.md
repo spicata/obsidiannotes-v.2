@@ -291,6 +291,11 @@ END
 4. Develop
 - See attached folder.
 6. Test
+
+**Trace Table for Voice Commands**
+| audioInput | query | 
+| ---------- | ----- |
+
 - Trace table with **sample data**!!!
-7. Evaluate
+8. Evaluate
 
