@@ -161,11 +161,13 @@ User Selected
 ![](000_Files/Pasted%20image%2020220912214114.png)
 - I create a function, the "boxstatus" function, specifically for changing the text of the window. It also logs the change in the "userdata.txt" file.
 
-For there one, there is little graphical change, as all that is changed is the text as it runs through the voice command from the user. It also repeats in asking for voice input, unless the program is terminated.
+For here onwards, there is little graphical change, as all that is changed is the text as it runs through the voice command from the user. It also repeats in asking for voice input, unless the program is terminated.
 
 **Graphics**
 - The program features *very* *minimalistic* graphics. This is because I felt it would be too much of a challenge to use and improve on the basic Tkinter graphics. Furthermore, I feel the simplistic design of the logo makes up for the lack of visual dynamics and contrast in the graphical interface of the program. 
 - I intended to use minimalistic graphics, as I believe that **the focus of a voice assistant should not be it's aesthetic beauty, but rather its functionality**. In using less engaging graphics, I hope that students will not be distracted by the program, and rather use the program to further improve their focus and productivity.
+
+
 
 **User Interface**
 - The user has 2 ways of interacting with the program:
