@@ -331,6 +331,7 @@ END
 | what is porridge         | "what is porridge"     | False              | "valid key" | "what is porridge" | Porridge is a type of food made by boiling oats or other grains in water or milk. It is usually eaten for breakfast. | Porridge is a type of food made by boiling oats or other grains in water or milk. It is usually eaten for breakfast. |
  
 4. Evaluate
+
 **Survey**
 I have made brief survey for my voice assistant consisting of 6 rating questions and 4 written questions, which was sent to my fellow peers in my Computer Science class. The following is a summary of the results, obtained from a sample size of 4.
 
