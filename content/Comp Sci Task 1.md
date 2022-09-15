@@ -177,6 +177,7 @@ For here onwards, there is little graphical change, as all that is changed is th
 		- For trivial things like starting the program and choosing an account, I decided to use Tkinter buttons fors these things, as I felt they were not worth implementing voice commands, however for future designs of the program this should be implemented. 
 
 **Algorithms: Flowcharts**
+
 ![](000_Files/Untitled%20Diagram.png)
 
 ![](000_Files/voice%20command%20flowchart%201.png)
