@@ -162,7 +162,12 @@ User Selected
 ![](000_Files/Pasted%20image%2020220912214114.png)
 - I create a function, the "boxstatus" function, specifically for changing the text of the window. It also logs the change in the "userdata.txt" file.
 
-For here onwards, there is little graphical change, as all that is changed is the text as it runs through the voice command from the user. It also repeats in asking for voice input, unless the program is terminated.
+Main Voice Input Section
+![](000_Files/Pasted%20image%2020220915213632.png)
+- At this point, 2 new windows are created, one as a guide for new users on how to properly use my program, and one input box for the OpenAI API key necessary for the program to run. This is because I cannot leave my own API key in the code, due to the copyright of OpenAI's API, and thus I decided to input it. 
+- The design of the new 2 windows are very minimalistic, like the original window. I've chosen to just leave the windows in their standard Tkinter design, while including the logo of the program. I did so as I feel that design is not the main focus of the program, and furthermore due to time constraints I considered it unwise to try and add more stylistic features to the windows.
+
+
 
 **Graphics**
 - The program features *very* *minimalistic* graphics. This is because I felt it would be too much of a challenge to use and improve on the basic Tkinter graphics. Furthermore, I feel the simplistic design of the logo makes up for the lack of visual dynamics and contrast in the graphical interface of the program. 
@@ -326,7 +331,11 @@ END
 | what is porridge         | "what is porridge"     | False              | "valid key" | "what is porridge" | Porridge is a type of food made by boiling oats or other grains in water or milk. It is usually eaten for breakfast. |                                                                                                                      |
 | what is porridge         | "what is porridge"     | False              | "valid key" | "what is porridge" | Porridge is a type of food made by boiling oats or other grains in water or milk. It is usually eaten for breakfast. | Porridge is a type of food made by boiling oats or other grains in water or milk. It is usually eaten for breakfast. |
  
-
-- Trace table with **sample data**!!!
 8. Evaluate
+
+LIMITATIONS
+- no custom commands
+- account interface does nothing
+- openai is necessary when it should be voluntary
+- very little amount of actual features
 
