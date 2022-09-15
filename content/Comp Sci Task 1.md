@@ -331,7 +331,61 @@ END
  
 4. Evaluate
 **Survey**
-I have a brief survey for my voice assistant consisting of 6 rating questions and 4 written questions. The following is a summary of the results, obtained from a sample size of 4.
+I have made brief survey for my voice assistant consisting of 6 rating questions and 4 written questions, which was sent to my fellow peers in my Computer Science class. The following is a summary of the results, obtained from a sample size of 4.
+
+Question 1: "On a scale from one to ten, how organised are you?"
+- Average: 5
+- Comments: This average is quite shocking, and indicates that the target audience of the survey feel that they are unorganised. This could mean that they would gladly use productivity tools such as my voice assistant.
+
+Question 2: "On a scale from one to ten, how important do you think productivity tools are?"
+- Average: 8.75
+- Comments: This average indicates that the target audience of the survey feel that productivity tools are very important. This could reveal a potential gap in the productivity tool industry, considering the appalling prior results.
+
+Question 3: On a scale from one to ten, how busy are you, in general?"
+- Average: 7.75
+- Comments: This indicates that people consider themselves to be relatively busy, which could mean that they would appreciate a productivity tool such as a voice assistant.
+
+Question 4: "On a scale of one to ten, how often do you use a voice assistant?"
+- Average: 4
+- Comments: This could mean that people are generally disinterested in using voice assistants, see them as ineffective, or that there has not yet been a voice assistant created that meets their needs.
+
+Question 5: "On a scale from one to ten, how would you rate my program (any metric)?"
+- Average: 9
+- Comments: From the high average, it's clear that the survey participants liked using my program. This could be due to user bias, or from genuine appreciation of the program's utility.
+
+Question 6: "How would you rate the quality of the program's code?"
+- Average Stars: 5
+- Comments: The survey participants were given a GitHub link to my program, and so were able to read the program's source code. Through either confusion or genuine analysis, the sample group returned a very high rating for the quality of the code, however it would be important to consider bias and the small sample size.
+
+Question 7: "What do you like about the utility of the program?"
+- Random Answer: "It's useful in that it makes certain activities more effecient"
+- General Sentiment: The program is useful and has a nice aesthetic
+- Comments: Despite personally thinking that the program has quite low utility, the survey participants gave quite positive comments. This could be a result of bias.
+
+Question 8: "What do you dislike about the utility of the program?"
+- Random Answer: "It can be slow and not register my voice at times."
+- General Sentiment: Voice recognition is hard, the visuals could use some improvement
+- Comments: I think overall the comments were quite positive. I can't quite improve voice recognition, as it is currently based of Google's voice recognition, and I probably could've made it clearer that the design was minimalist in nature.
+
+Question 9: "Do you have any suggestions on improving the program?"
+- Random Answer: "Use a better speech model perhaps?"
+- General Sentiment: Get assistant to learn voices, more functionality, improve interface
+- Comments: These are all good constructive suggestions. If I had more time, I would have certainly worked on these pieces of advice.
+
+Question 10: "Have you experienced any issues using the program? If so, please list them below."
+- Random Answer: "It doesn't recognise my voice"
+- General Sentiment: The program is slow, it struggles recognising voice
+- Comments: I suspect the slowness comes from the talking pace of the Google text-to-speech voice. This is an easy fix, and I could probably include this in some sort of settings window. As stated before, the voice recognition is out of my hands, and making something better than Google's voice recognition would be quite difficult.
+
+Here is the link to the survey: https://forms.office.com/r/UTPS0bchCd
+
+**Personal Evaluation**
+
+Overall, I consider this project to be a success. As someone who has only used raw Python when programming, I felt that having to learn how modules and specifically how GUI modules such as Tkinter work was quite challenging, yet rewarding as I progressed through the task.
+
+However, the task was quite tiring and due to time constraints, I was unable to maintain clarity and conciseness in the source code. I feel that there is quite a lot of inefficiency and redundancy in my source code, such as creating a function for specific windows, however I found this was the only solution at the time due to issues encountered with Tkinter.
+
+I think that while the voice assistant is relatively quite functional, in that it can in fact open specific programs and answer intrinsic questions through OpenAI, due to time constraints I was unable to implement custom functions, which was the main goal of the program. However, the inclusion of OpenAI does make up for this lack of features, as OpenAI's API is quite powerful, and can answer very hard questions such as "What are 10 important things to remember when naming organic compounds"
 
 LIMITATIONS
 - no custom commands
@@ -339,4 +393,5 @@ LIMITATIONS
 - openai is necessary when it should be voluntary
 - very little amount of actual features
 - for some reason the text boxes don't align even though its in their code, this is trivial issue
+- no settings
 
