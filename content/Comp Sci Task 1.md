@@ -181,15 +181,19 @@ For here onwards, there is little graphical change, as all that is changed is th
 ![](000_Files/Untitled%20Diagram.png)
 
 ![](000_Files/voice%20command%20flowchart%201.png)
+![](000_Files/account%20creation%20flowchart.png)
+
 **Algorithms: Pseudocode**
 ```yaml {title='Voice Command Code'}
 # Note all the notequal signs are ! + = signs.
 BEGIN
 Exit <- "False"
+# program only breaks when given voice command to
 WHILE Exit != "True"
 	OUTPUT("Listening")
-	
 	INPUT(command)
+	# following IF-ELSE statements refers to inbuilt functions
+	# note the "What would you like to do?" string is repeated, to indicate to the user the program is repeating.
 	IF command == None THEN:
 		OUTPUT("Failed to understand, will try again.")
 		OUTPUT("What would you like to do?")
@@ -203,9 +207,11 @@ WHILE Exit != "True"
 		closeProgram()
 		Exit = "True"
 	ELSE:
+		# using OpenAI
 		key <- "this is a working OpenAI key"
 		answer = putThroughOpenAI(key)
 		IF answer == None:
+			# worst-case scenario, even OpenAi can't make sense of input 
 			OUTPUT("OpenAI didn't understand.")
 			OUTPUT("What would you like to do?")
 		ELSE:
@@ -218,33 +224,69 @@ END
 # Note all the notequal signs are ! + = signs.
 BEGIN
 INPUT(accountdata)
+# data taken from text file and put into list
 name <- None
+# identifies whether no users
 IF len(accountdata) == 0 THEN:
 	OUTPUT("No Users Detected")
+	# the following lines are the account creation code, simplified 
 	INPUT(name)
 	accountdata[0] = name
 	OUTPUT(name)
+# identifies whether only 1 user
 ELIF len(accountdata) == 1 THEN:
 	name = accountdata[0]
 	OUTPUT(name)
+# in this case there are multiple users saved
 ELSE:
 	answer <- "No"
 	count <- 0
+	# while loop will ask user whether any of the user names saved are the desired one
 	WHILE answer != "Yes" OR count == len(accountdata):
 		OUTPUT("Is this your name?")
 		OUTPUT(accountdata[count])
 		INPUT(answer)
 		count = count + 1
 	IF answer == "Yes" THEN:
+	# due to how Python lists work, count - 1 was used
 		name = accountdata(count - 1)
 		OUTPUT(name)
 	ELSE:
 		OUTPUT("You chose none of them, let's try again.")
 		answer <- "No"
 		count <- 0
+	# note that there is no feature to directly add an account when accounts exist, in the actual program you must log into someone else's account, and create a new one from there
 END
 ```
 
+```yaml {title='Account Creation Code'}
+BEGIN
+INPUT(accountdata)
+# data taken from text file and turned into list
+count <- 0
+answer <- None
+name <- None
+# while loop so users have 3 tries inputting name via voice
+WHILE count != 3:
+	INPUT(nameAudio)
+	# recognise.google is a function from a Python module
+	answer <- recognise.google(nameAudio)
+	IF answer != None THEN:
+		name = answer
+		count = 3
+		# this is done to escape the while loop
+	ELSE:
+		count = count + 1
+IF name == None THEN:
+	INPUT(manualName)
+	# this is physical input, i.e. typing it
+	name = manualName
+	# use of "name" variable so that manual and voice naming add to same variable
+accountdata.append(name)
+# adds name into text file
+OUTPUT(name)
+END
+```
 
 4. Develop
 - See attached folder.
