@@ -293,9 +293,10 @@ END
 6. Test
 
 **Trace Table for Voice Commands**
-| audioInput | query |
-| ---------- | ----- |
-|            |       |
+| audioInput | query      | openAIKey | openAIInput | openAIOutput | Output | 
+| ---------- | ---------- | --------- | ----------- | ------------ | ------ |
+| obsidian   |            |           |             |              |        |
+|            | "obsidian" |           |             |              |        |
 
 - Trace table with **sample data**!!!
 8. Evaluate
