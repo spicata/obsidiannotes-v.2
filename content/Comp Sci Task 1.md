@@ -178,6 +178,9 @@ For here onwards, there is little graphical change, as all that is changed is th
 **Algorithms: Flowcharts**
 ![](000_Files/Untitled%20Diagram.png)
 
+![](000_Files/voice%20command%20flowchart.png)
+**Algorithms: Pseudocode**
+
 
 - COMMENTS IN **ALGORITHM** CODE!!!
 4. Develop
