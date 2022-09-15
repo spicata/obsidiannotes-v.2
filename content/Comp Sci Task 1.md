@@ -293,10 +293,21 @@ END
 6. Test
 
 **Trace Table for Voice Commands**
-| audioInput | query      | openAIKey | openAIInput | openAIOutput | Output | 
-| ---------- | ---------- | --------- | ----------- | ------------ | ------ |
-| obsidian   |            |           |             |              |        |
-|            | "obsidian" |           |             |              |        |
+| audioInput           | query                  | openAIKey | openAIInput | openAIOutput | Output           |
+| -------------------- | ---------------------- | --------- | ----------- | ------------ | ---------------- |
+| obsidian             |                        |           |             |              |                  |
+|                      | "obsidian"             |           |             |              |                  |
+|                      |                        |           |             |              | openObsidian()   |
+| fire fox             |                        |           |             |              |                  |
+|                      | "Firefox"              |           |             |              |                  |
+|                      |                        |           |             |              | openFirefox()    |
+| close program please |                        |           |             |              |                  |
+|                      | "close program please" |           |             |              |                  |
+|                      |                        |           |             |              | closeProgram()   |
+| restart if you want  |                        |           |             |              |                  |
+|                      | "restart if you want"  |           |             |              |                  |
+|                      |                        |           |             |              | restartProgram() |
+|                      |                        |           |             |              |                  |
 
 - Trace table with **sample data**!!!
 8. Evaluate
