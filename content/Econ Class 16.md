@@ -12,6 +12,7 @@ The change in **interest rates** translates through an economy. This is what we 
 It is transmitted through 4 channels:
 - Consumption/Saving and Investment
 	- When RBA **raises** cash rate, the banks (Commonwealth, ANZ, etc.) will raise interest rates, *on savings and loans*. They can only change interest rates for savings and loans. 
+	- This changes **new savings/loans!!!**
 	- 2 Types of loans:
 		- Household loans, things to buy a house/car
 		- Business loans, loans for businesses for investment
@@ -29,5 +30,13 @@ It is transmitted through 4 channels:
 	- In terms of shares, if consumption has fallen, that means that companies will sell less. Thus, profits will decrease, and thus the values of their shares have fallen. Thus, the wealth of people who own shares decreases, their demand decreases, and thus aggregate demand decreases.
 	- Wealth is how much you own, your assets. Assets are in property and shares in companies. If the value of assets fall, so does wealth. When people have lower wealth, they cannot afford more things, and thus demand fall.
 - Cash flow
+	- Deals with **existing debt**. If you previously have a mortgage and interest rates increase, then the interest rate for the mortgage tends to increase.
+	- Mortgage repayments come out of income. Thus, when mortgage rates increases, then people with fixed incomes will have **less disposable income**. Thus, people have to spend less.
+	- [ ] This will reduce aggregate demand.
+
+***THE GOAL OF MONETARY POLICY: TO CONTROL INFLATIONARY PRESSURE!!!!!***
+Target Rate: 2-3%!
+
+
 
 
