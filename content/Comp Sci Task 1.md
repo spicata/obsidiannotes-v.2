@@ -167,8 +167,6 @@ For here onwards, there is little graphical change, as all that is changed is th
 - The program features *very* *minimalistic* graphics. This is because I felt it would be too much of a challenge to use and improve on the basic Tkinter graphics. Furthermore, I feel the simplistic design of the logo makes up for the lack of visual dynamics and contrast in the graphical interface of the program. 
 - I intended to use minimalistic graphics, as I believe that **the focus of a voice assistant should not be it's aesthetic beauty, but rather its functionality**. In using less engaging graphics, I hope that students will not be distracted by the program, and rather use the program to further improve their focus and productivity.
 
-
-
 **User Interface**
 - The user has 2 ways of interacting with the program:
 	- Voice
