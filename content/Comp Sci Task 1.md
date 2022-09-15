@@ -7,6 +7,7 @@ enableToc: false
 # Comp Sci Task 1
 
 1. State the problem
+
 **Description**
 - The core idea of the program is a voice assistant targeted for high-school students as a useful tool in managing and optimising their work/study life on the computer.
 - I've titled the program **Ed's Voice Assistant**, as it is a voice assistant made by me.
@@ -141,6 +142,7 @@ for i in accountdata:
 - *Siri*
 	- Apple's Siri is a very versatile voice assistant. It has limited settings, and is not very compatible compared to other well-known voice assistants. However, in terms of languages available, Siri is quite compatible, supporting up to 21 languages as of April 2021. Siri is mostly designed for mobile uses, which is why it is the most popular voice assistant for mobile devices. Unfortunately, as my program is written primarily in Python, and requires a lot of Python modules, it is incompatible for mobile use. However, I hope to design a voice assistant with much more basic voice commands than Siri, and my idea of customised voice commands give my program an advantage over Siri.
 2. Plan and Design
+
 **Screen Layout**
 Initial Layout:
 ![](000_Files/Pasted%20image%2020220912213050.png)
@@ -168,8 +170,6 @@ Main Voice Input Section
 - At this point, 2 new windows are created, one as a guide for new users on how to properly use my program, and one input box for the OpenAI API key necessary for the program to run. This is because I cannot leave my own API key in the code, due to the copyright of OpenAI's API, and thus I decided to input it. 
 - The design of the new 2 windows are very minimalistic, like the original window. I've chosen to just leave the windows in their standard Tkinter design, while including the logo of the program. I did so as I feel that design is not the main focus of the program, and furthermore due to time constraints I considered it unwise to try and add more stylistic features to the windows.
 
-
-
 **Graphics**
 - The program features *very* *minimalistic* graphics. This is because I felt it would be too much of a challenge to use and improve on the basic Tkinter graphics. Furthermore, I feel the simplistic design of the logo makes up for the lack of visual dynamics and contrast in the graphical interface of the program. 
 - I intended to use minimalistic graphics, as I believe that **the focus of a voice assistant should not be it's aesthetic beauty, but rather its functionality**. In using less engaging graphics, I hope that students will not be distracted by the program, and rather use the program to further improve their focus and productivity.
@@ -180,7 +180,7 @@ Main Voice Input Section
 		- The fundamental utility of the program is that one can use their voice to maximise the functionality of their computer usage. The program clearly indicates when it is listening for audio input, with the text box changing and an audio cue being played. 
 		- This interface is a crucial element of the program, as it fulfils the core purpose of the software. 
 	- Peripheral input (mouse)
-		- For trivial things like starting the program and choosing an account, I decided to use Tkinter buttons fors these things, as I felt they were not worth implementing voice commands, however for future designs of the program this should be implemented. 
+		- For trivial things like starting the program and choosing an account, I decided to use Tkinter buttons for these things, as I felt they were not worth implementing voice commands, however for future designs of the program this should be implemented. 
 
 **Algorithms: Flowcharts**
 
