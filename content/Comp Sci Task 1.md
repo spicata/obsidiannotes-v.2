@@ -333,7 +333,7 @@ END
 4. Evaluate
 
 **Survey**
-I have made brief survey for my voice assistant consisting of 6 rating questions and 4 written questions, which was sent to my fellow peers in my Computer Science class. The following is a summary of the results, obtained from a sample size of 4.
+I have made a brief survey for my voice assistant consisting of 6 rating questions and 4 written questions, which was sent to my fellow peers in my Computer Science class. The following is a summary of the results, obtained from a sample size of 4.
 
 Question 1: "On a scale from one to ten, how organised are you?"
 - Average: 5
