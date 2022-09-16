@@ -226,6 +226,7 @@ WHILE Exit != "True"
 END
 ```
 
+
 ```yaml {title='Account Selection Code'}
 # Note all the notequal signs are ! + = signs.
 BEGIN
@@ -265,6 +266,7 @@ ELSE:
 END
 ```
 
+
 ```yaml {title='Account Creation Code'}
 BEGIN
 INPUT(accountdata)
@@ -301,8 +303,8 @@ END
 | ------------------------ | ---------------------- | ------------------ | ----------- | ------------------ | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | **obsidian**             |                        |                    |             |                    |                                                                                                                      |                                                                                                                      |
 | obsidian                 | "obsidian"             |                    |             |                    |                                                                                                                      |                                                                                                                      |
-| obsidian                 | "obsidian"             | True               |             |                    |                                                                                                                      | openObsidian()                                                                                                       |
 | obsidian                 | "obsidian"             | True               |             |                    |                                                                                                                      |                                                                                                                      |
+| obsidian                 | "obsidian"             | True               |             |                    |                                                                                                                      | openObsidian()                                                                                                       |
 | **fire fox**             |                        |                    |             |                    |                                                                                                                      |                                                                                                                      |
 | fire fox                 | "Firefox"              |                    |             |                    |                                                                                                                      |                                                                                                                      |
 | fire fox                 | "Firefox"              | True               |             |                    |                                                                                                                      |                                                                                                                      |
