@@ -5,7 +5,7 @@ enableToc: false
 ---
 # Comp Sci Task 1
 
-
+![](000_Files/Untitled%20design-modified.png)
 
 1. State the problem
 
