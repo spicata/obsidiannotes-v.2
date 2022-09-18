@@ -155,7 +155,7 @@ selection:
 
 repetition:
 - 3 types: while, for, repeat until
-	- while: tests from the start, which is why its called FIRST TEST. this means the condition is tested at the end of the programn
+	- while: tests from the start, which is why its called FIRST TEST. this means the condition is tested at the end of the program
 		- the program may not even run, if the condition is not even met
 	- for loop has things:
 		- FIX: amount of repetitions known by the program, e.g. for range(5)
