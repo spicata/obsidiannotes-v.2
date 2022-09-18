@@ -156,7 +156,7 @@ selection:
 repetition:
 - 3 types: while, for, repeat until
 	- while: tests from the start, which is why its called FIRST TEST. this means the condition is tested at the end of the programn
-		- the program may not even run, if the condition is not even ment
+		- the program may not even run, if the condition is not even met
 	- for loop has things:
 		- FIX: amount of repetitions known by the program, e.g. for range(5)
 			- e.g. if you get password wrong 3 times, you are locked out. in this situation, it would be better to use for loop.
