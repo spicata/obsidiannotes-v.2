@@ -35,5 +35,5 @@ title: "Comp Sci 3"
 	- Specific, as related to logic
 	- Program runs, but runs in infinite loop, and crashed computer
 	- e.g. **What happens when you divide by 0**
-[[Comp Sci Class Notes]]
+
 

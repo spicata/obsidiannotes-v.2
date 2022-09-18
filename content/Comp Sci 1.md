@@ -172,7 +172,7 @@ Types of Errors:
 - Logic
 
 Runtime: the program works, but doesn't work as intended, so its essentially a logic error. but in this case, you dont have time to stop it, and you produce a crash. e.g. you get an infinite loop.
-Logic: you put in an incorrect function
+Logic: you put in an incorrect logic?/function?
 Syntax: when you don't type it right, the program WILL NOT WORK.
 	- depending on the type of program, the programming language will identify errors differently.
 
@@ -183,9 +183,10 @@ BOTH CONVERT SOURCE CODE TO MACHINE CODE
 - interpreter converts line by line
 - compiler converts it all
 
-compiler is much faster, as its going line by line. HOWEVER, AS IT DOES IT ALL AT THE SAME TIME, IT CANT IDENTIFY WHERE OR WHAT THE ERROR IS.
+compiler is much faster, as its not going line by line. HOWEVER, AS IT DOES IT ALL AT THE SAME TIME, IT CANT IDENTIFY WHERE OR WHAT THE ERROR IS.
 
 for interpreters, as its going line by line, it will tell you where errors are, which line they are, and what type.
+
 THEY CANNOT IDENTIFY LOGIC ERRORS, AND GENERALLY CANNOT FIND RUNTIME ERRORS (unless it just straight up crashes)
 
 
