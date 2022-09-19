@@ -86,7 +86,7 @@ The purpose of fiscal policy is to affect the level of economic activity, and me
 
 **Budget**: statement of *expected* revenue and *expected* expenditure over the financial year.
 
-When budget is written, the parts for G1 things are pretty accurate, as they have good enough data on the things already. However, things like **unemployment benefits** are usualy inaccurate, as this could be changed by changes in the economy. 
+When budget is written, the parts for G1 things are pretty accurate, as they have good enough data on the things already. However, things like **unemployment benefits** are usually inaccurate, as this could be changed by changes in the economy. 
 
 
 
