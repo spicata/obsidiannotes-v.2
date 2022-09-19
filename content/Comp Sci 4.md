@@ -20,7 +20,7 @@ title: "Comp Sci 4"
 		- How will I do it?
 		- What resources do I have?
 		- What libraries will I use?
-	
+
 2. Plan and Design
 	- Plan to create a program.
 	- Here, pseudocode and flowcharts are used.
