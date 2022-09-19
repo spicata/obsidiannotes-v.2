@@ -62,7 +62,7 @@ benefit of this is that you can call functions multiple times, so that you can r
 
 ANOTHER BENEFIT is that MULTIPLE PROGRAMERS can work on SEPARATE PROGRAMS!!!!!
 
-you have people working on specific module, and then one pesroin working on the main moduile
+you have people working on specific module, and then one person working on the main moduile
 
 this allows MORE ORGANISATION
 
