@@ -35,3 +35,4 @@ Three types:
 - Deficit, G>T
 - Surplus, G$<$T
 
+
