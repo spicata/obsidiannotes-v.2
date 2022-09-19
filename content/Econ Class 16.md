@@ -32,7 +32,7 @@ It is transmitted through 3 main channels:
 - Cash flow
 	- Deals with **existing debt**. If you previously have a mortgage and interest rates increase, then the interest rate for the mortgage tends to increase.
 	- Mortgage repayments come out of income. Thus, when mortgage rates increases, then people with fixed incomes will have **less disposable income**. Thus, people have to spend less.
-	- [ ] This will reduce aggregate demand.
+	- This will reduce aggregate demand.
 
 ***THE GOAL OF MONETARY POLICY: TO CONTROL INFLATIONARY PRESSURE!!!!!***
 **Inflation Target Rate: 2-3%**
