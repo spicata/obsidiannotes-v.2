@@ -8,7 +8,6 @@ title: "Comp Sci 4"
 
 ## Software Development Cycle(5 stages):
 
-
 1. State the Problem
 	- What is the problem, how will I fix it?
 		- What program
