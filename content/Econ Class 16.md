@@ -35,17 +35,8 @@ It is transmitted through 3 main channels:
 	- [ ] This will reduce aggregate demand.
 
 ***THE GOAL OF MONETARY POLICY: TO CONTROL INFLATIONARY PRESSURE!!!!!***
-Target Rate: 2-3%!
+**Inflation Target Rate: 2-3%**
+**Economic Growth Target Rate: 3-4%**
+**Unemployment Target Rate: 4-5%**
 
-NO NEED TO DO EXCHANGE RATE CHANNEL!!! :)
-
-$\mathcal{L}=- \frac{1}{4}B_{\mu v}- \frac{1}{8}tr(\mathbf{W}_{\mu v}\mathbf{W}^{\mu v})-\frac{1}{2}tr(\mathbf{G}_{\mu v}\mathbf{G}^{\mu v})+(\overline{v}_{L},\overline{e}_{L})$
-
-
-
-
-
-
-
-
-
+NO NEED TO DO EXCHANGE RATE CHANNEL!!!
