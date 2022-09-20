@@ -49,7 +49,7 @@ title: "Econ Class 14"
 		- **What is the current cash rate?** Look this up before the test.
 			- Say this is ***aggressive***.
 - Neutral
-	- They do nothing, but *sometimes it can still be contractionary/expansionary*. However, if GDP stays at one point for a long time, it is considered **neutral**.
+	- They do nothing, but *sometimes it can still be contractionary/expansionary*. However, if GDP growth stays at one point for a long time, it is considered **neutral**.
 
 ## Transmission of Monetary Policy!!
 - The **transmission mechanism** is the *process* undertaken to **increase the cash rate**. It occurs in step!
