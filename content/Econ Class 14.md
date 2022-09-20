@@ -5,7 +5,7 @@ title: "Econ Class 14"
 # Econ Class 14
 
 ## Monetary Policy:
-- Monetary policy is an *anticipatory*, discretionary, counter-cyclical *demand-side* policy administers by the **Reserve Bank of Australia** through changes in the cash rate.
+- Monetary policy is an *anticipatory*, discretionary, counter-cyclical *demand-side* policy administered by the **Reserve Bank of Australia** through changes in the cash rate.
 	- Anticipatory: Creating future plans and executing relevant actions
 	- Discretionary: Based on the judgement of policymakers. In Australia's case this is the *Reserve Bank of Australia*, which is **independent** from the government.
 	- Counter-cyclical: Go against the current direction of the BTC
