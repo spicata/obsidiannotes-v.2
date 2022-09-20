@@ -336,30 +336,30 @@ END
 4. Evaluate
 
 **Survey**
-I have made a brief survey for my voice assistant consisting of 6 rating questions and 4 written questions, which was sent to my fellow peers in my Computer Science class. The following is a summary of the results, obtained from a sample size of 4.
+I have made a brief survey for my voice assistant consisting of 6 rating questions and 4 written questions, which was sent to my fellow peers in my Computer Science class. The following is a summary of the results, obtained from a sample size of 11.
 
 Question 1: "On a scale from one to ten, how organised are you?"
-- Average: 5
+- Average: 5.64
 - Comments: This average is quite shocking, and indicates that the target audience of the survey feel that they are unorganised. This could mean that they would gladly use productivity tools such as my voice assistant.
 
 Question 2: "On a scale from one to ten, how important do you think productivity tools are?"
-- Average: 8.75
-- Comments: This average indicates that the target audience of the survey feel that productivity tools are very important. This could reveal a potential gap in the productivity tool industry, considering the appalling prior results.
+- Average: 8.09
+- Comments: This average indicates that the target audience of the survey feel that productivity tools are rather important. This could reveal a potential gap in the productivity tool industry, considering the appalling prior results. Yet, this average is relatively low, and could indicate an apathy towards productivity tools.
 
 Question 3: On a scale from one to ten, how busy are you, in general?"
-- Average: 7.75
+- Average: 7.64
 - Comments: This indicates that people consider themselves to be relatively busy, which could mean that they would appreciate a productivity tool such as a voice assistant.
 
 Question 4: "On a scale of one to ten, how often do you use a voice assistant?"
-- Average: 4
+- Average: 4.45
 - Comments: This could mean that people are generally disinterested in using voice assistants, see them as ineffective, or that there has not yet been a voice assistant created that meets their needs.
 
 Question 5: "On a scale from one to ten, how would you rate my program (any metric)?"
-- Average: 9
-- Comments: From the high average, it's clear that the survey participants liked using my program. This could be due to user bias, or from genuine appreciation of the program's utility.
+- Average: 8.6 (without outlier), 7.91 (with outlier)
+- Comments: From the high average, it's clear that the survey participants liked using my program. This could be due to user bias, or from genuine appreciation of the program's utility. I had to exclude a specific outlier from the results, as it was completely stood out from the rest of the results.
 
 Question 6: "How would you rate the quality of the program's code?"
-- Average Stars: 5
+- Average Stars: 4.45
 - Comments: The survey participants were given a GitHub link to my program, and so were able to read the program's source code. Through either confusion or genuine analysis, the sample group returned a very high rating for the quality of the code, however it would be important to consider bias and the small sample size.
 
 Question 7: "What do you like about the utility of the program?"
