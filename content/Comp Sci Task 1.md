@@ -20,8 +20,8 @@ enableToc: false
 	- In the future, I also plan for the voice assistant to be a general tool in the office, for example it could send emails to large batches of fellow colleagues. 
 	- Furthermore, people who have used voice assistants before may demand high quality in graphical design of the program. Using Tkinter, I plan to provide a well-thought-out visual interface, however **I have used copyrighted images (Siri logo) for parts of the visual design**, as I feel its simplistic design fits my program, and I admire the quality of the Siri voice asssitant.
 - The program will fill its user's need for a simplistic, easy-to-use voice assistant that will improve their productivity. It will also improve their quality of life, by helping its users achieve a healthy study schedule/routine.
-- The licencing used is the Permissive MIT licence, the reasoning for which is explained at the end of the Licencing section
-- Having published the project to GitHub, anyone who wishes to modify my code through GitHub will automatically follow the licencing requirements of the MIT licence. Their programs should contain the original copyright notice and a copy of the original MIT licence.
+- The licencing used is the Permissive MIT licence, the reasoning for which is explained at the end of the Licencing section.
+	- Having published the project to GitHub, anyone who wishes to modify my code through GitHub will automatically follow the licencing requirements of the MIT licence. Their programs should contain the original copyright notice and a copy of the original MIT licence.
 
 **Licencing**
 Currently, there are 3 main software licences used by companies across the world:
@@ -81,7 +81,7 @@ _End license text._
 *Having research many software licences, I have settled on using the MIT licence for my program. I believe this licence reflects my desires for the use of my program, as I hope that others can take the program and improve on it for their own use. I also believe that if their version of my voice assistant is both unique and helpful for others, that its developers should be able to relicense it.*
 
 **Resources**
-The program is Python based, and relies on text files to store data. The program also requires a lot of modules for its basic function:
+The program is Python based (Python 3.10), and relies on text files to store data. The program also requires a lot of modules for its basic function:
 
 *Modules:*
 | Module Name        | Purpose                       | Importance          |
@@ -402,7 +402,7 @@ This detail in responses from OpenAI makes up for some of the lack of functional
 
 Furthermore, the following are some limitations I've derived from my program:
 - No custom commands
-- Account interface is quite redundant
+- Account interface is quite redundant, and falls short of my idea to keep user-specific data stored.
 - OpenAI is necessary when it should be voluntary
 - Very little amount of actual features
 - For some reason the text boxes don't align even though its in their code, this is a trivial issue
@@ -417,4 +417,3 @@ However, there are also some good quality of the program:
 - Saves user data in text file
 
 In summary, I feel that my project was a great effort in working in the shoes of greater voice assistants which were developed with a lot more funding(and incentive). As a result of time constraints, I fell short of the ultimate goal of a successful, well-designed voice assistant, yet the end product has a lot of potential and could be developed into a very user-friendly, intuitive program.
-
