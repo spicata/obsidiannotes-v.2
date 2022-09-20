@@ -38,7 +38,7 @@ title: "Econ Class 14"
 - The RBA's decisions about monetary policy are expressed publicly, to ensure accountability. 
 	- It gives the business community **confidence**, and allows them to make informed decisions on their business actions.
 	- It gives consumers confidence, as consumers can plan for things, e.g. cash rate changes.
-
+ 
 ### Types of Monetary Policy
 - Expansionary
 	- Trying to *expand the economy*. Here, we are **lowering** interest rates.
