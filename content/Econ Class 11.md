@@ -30,7 +30,7 @@ title: "Econ Class 11"
 			- G2: capital (investment) expenditure to provide for future needs such as schools, roads, etc.
 				- Government invests money into improving existing goods/services or providing new things.
 
-Fiscal policy is when government changes G2 to boost or lower economic activity. G1 is essentially constant.
+**Fiscal policy is when government changes G2 to boost or lower economic activity. G1 is essentially constant.**
 
 **Aggregate Demand curve: how to change it**
 - Taxation - income changes, changing consumption
