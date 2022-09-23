@@ -10,5 +10,6 @@ layout: default
 - [[Comp Sci 4]]
 - [[Comp Sci 5]]
 - [[Comp Sci Task 1]]
+- [[Comp Sci 6]]
 
 
