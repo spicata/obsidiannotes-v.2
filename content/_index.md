@@ -24,6 +24,8 @@ Also, here's my current [Class note-taking procedure](Class%20note-taking%20proc
 
 You may also enjoy perusing my [Yr11 Chemistry textbook review](Chemistry%20Resources%20review.md).
 
+**Note:** The monkey face was chosen by Atharva Sathe.
+
 #### IMPORTANT!
 
 This website is in the development stage. There will definitely be some unformatted pages, and the whole thing is rather experimental. Check out the development status [here](Development%20Status.md)!
