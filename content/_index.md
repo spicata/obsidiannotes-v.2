@@ -8,9 +8,9 @@ title: "Ed's Obsidian Notes"
 
 Welcome to my website! I'm [Ed](about.md), and this website is essentially **Obsidian Publish on steroids**, i.e. *this is where I publish my obsidian notes*. 
 
-The website runs using **github pages** and **quartz**, with special thanks to Jacky Zhao [(here is the github page)](https://github.com/jackyzha0), who essentially wrote all the code, did all the hard work, while I've just stolen it. :)
+The website runs using **Github pages** and **quartz**, with special thanks to Jacky Zhao [(here is the github page)](https://github.com/jackyzha0), who essentially wrote all the code, did all the hard work, while I've just stolen it. :)
 
-Anyways, as I said the point of this website is to make education free and accessible, as it should be. I will be uploading my generic class notes here, alongside some more refined subject-specific notes, such as methods, spec and chem.
+Anyways, the point of this website is to make education free and accessible, as it should be. I will be uploading my generic class notes here, alongside some more refined subject-specific notes, such as methods, spec and chem.
 
 >Please note that methods and specialist notes will probably be very bad, as you really should be making notes on these subjects yourself. However, the chemistry notes will be of moderate quality, and will be good to read in your spare time if you aren't exactly learning the topics in class.
 

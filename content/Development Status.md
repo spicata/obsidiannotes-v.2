@@ -25,6 +25,10 @@ So it turns out that my formula for note taking isn't the slightest bit helpful 
 
 Normally, this would be fine, but because people like Tag exist and Tag likes to take other people's notes without asking them, I've had to private the repository. Give me a few days and it'll be back soon. :)
 
+### 23/09/2022
+
+We have moved to quartz!!! Yay! 
+
+The old website is now no longer worked on. It still exists. I can't be bothered to close it. Also the repo is now accessible. Might have to change a few things. Not sure though.
 
 
-/\\ Proof that I am not capping and the repo exists. I mean, how else would this website exist???
