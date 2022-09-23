@@ -34,6 +34,24 @@ But we are running out of addresses, so we make IPV6, with 128 bits, but this is
 
 This is all part of a protocol.
 
+# How to connect to the internet?
+
+A **modem** connects to the internet. 
+
+Modem stands for modulator-demodulator,
+it modulates from analogue to digital, and then demodulates from digital to analogue.
+
+In our home, we only have one device, called a **router**. The role of the router is sending packages of data to all the devices in a network.
+
+What is a firewall? It is a **software**. It **filters packages** and checks if they are malicious packages or not. Will prevent viruses, malware, etc. that could possibly attack the local network
+
+These 3 devices, a *modem*, *firewall*, and *router*, make up the things that link devices to the internet.
+
+But there are more complex components of a local network. 
+
+We will use **cisco** to map out these networks.
+
+But, if we were to send files to the shared storage for example, we *don't use internet*. 
 
 
 
