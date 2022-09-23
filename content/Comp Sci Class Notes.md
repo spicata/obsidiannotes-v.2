@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Comp Sci Class Notes"
 ---
 
 # Comp Sci Class Notes
