@@ -18,6 +18,3 @@ I will not be adding a "return to x" button, that exists already.
 * [[Comp Sci Class Notes]]
 * [[Science Physics Notes]]
 
-
-**Projects:**
-* [[Notes.exe]]
