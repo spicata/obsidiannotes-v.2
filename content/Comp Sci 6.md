@@ -53,8 +53,11 @@ We will use **cisco** to map out these networks.
 
 Our "stupid computers" connect to the internet via the **Wireless Access Point**.
 
+
+
 But, if we were to send files to the shared storage for example, we *don't use internet*. 
 
-
+*Servers* are computer with a lot of memory and space, and serve as storages for data. The **shared drive** stores data on the server. 
+- It can store all types of data, e.g. programs, music, pictures, etc.
 
 
