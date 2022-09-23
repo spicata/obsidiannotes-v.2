@@ -51,6 +51,8 @@ But there are more complex components of a local network.
 
 We will use **cisco** to map out these networks.
 
+Our "stupid computers" connect to the internet via the **Wireless Access Point**.
+
 But, if we were to send files to the shared storage for example, we *don't use internet*. 
 
 
