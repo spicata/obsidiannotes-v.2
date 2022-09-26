@@ -1,6 +1,6 @@
 ---
 tags:
-  - personalnotes
+  - 
 ---
 
 # {{title}}
