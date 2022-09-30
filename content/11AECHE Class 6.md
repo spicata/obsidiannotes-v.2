@@ -2,11 +2,7 @@
 layout: default
 title: "11AECHE Class 6"
 ---
-# 11AECHE Class 6
 
-
-
-## Notes
 Crystallisation occurs when the solution solvent evaporates, and the concentration of the solute reaches saturation point. At this stage, the solute begins to precipitate out of solution. Under the right conditions, generally slow evaporation and a clear solution, the solute will crystallise. - thermally unstable substances, we should heat it very slowly.
 
 We are trying to create a supersaturated solution.
@@ -56,21 +52,3 @@ Chromatography
     -   He called them atoma which is Greek for “indivisible”
 
 Next week: STAWA 11 on Tuesday
-
-
-
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-# Summary

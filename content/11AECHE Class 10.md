@@ -7,31 +7,28 @@ title: "11AECHE Class 10"
 
 
 ## Notes
-```ad-note
-title: Method-Related
-collapse: open
 
 
-[[How to write a good method]]
 
-
-STAWA Set 4 Q4
-
-Don’t use moles unless you’re doing calculations
-
-Use:
-
-Mass (g)
-
-Volume (mL)
-
-concentration (mol $L^{-1}$)
-
-Example of mixture to separate:
-
-Sand, NaCl and CuCl_2
-
-```
+> [!NOTE]
+> [[How to write a good method]]
+> 
+> 
+> STAWA Set 4 Q4
+> 
+> Don’t use moles unless you’re doing calculations
+> 
+> Use:
+> 
+> Mass (g)
+> 
+> Volume (mL)
+> 
+> concentration (mol $L^{-1}$)
+> 
+> Example of mixture to separate:
+> 
+> Sand, NaCl and CuCl_2
 
 **Atomic Spectra**
 

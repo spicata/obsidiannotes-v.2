@@ -7,10 +7,7 @@ Status: #11AECHE_PermanentNotes
 Tags: [[notes/Separation Techniques]]
 
 
-# How to write a good method
 
-
-## Notes
 #### A good method:
 -   **Is a numbered list of instructions, not a description or explanation.**
 -   **Makes clear the order in which things happen.**
@@ -22,17 +19,3 @@ Tags: [[notes/Separation Techniques]]
 i still dont know how to write a good method
 
 # :)
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-# Summary

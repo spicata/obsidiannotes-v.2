@@ -2,11 +2,7 @@
 layout: default
 title: "11AECHE Class 9"
 ---
-# 11AECHE Class 9
 
-
-
-## Notes
 Bring in book on Wednesday!
 
 Separation Techniques homework!!!
@@ -59,17 +55,12 @@ It was also revolutionary:
 -   Used ideas of quantisation of energy, electrons can only have certain amounts of energy (quanta)
 - Linked chemistry to quantum physics
 
-```ad-info
-collapse: open
-
-Niels Bohr was a Danish physicist and is considered one of the founding fathers of quantum mechanics, precisely old quantum mechanics
-
-During the Nazi occupation of Denmark in World War II, Bohr escaped to the United States, where he became associated with the Atomic Energy Project.
-
-In his final years, he devoted himself to the peaceful application of atomic physics.
-
-```
-
+> [!info]
+> Niels Bohr was a Danish physicist and is considered one of the founding fathers of quantum mechanics, precisely old quantum mechanics
+> 
+> During the Nazi occupation of Denmark in World War II, Bohr escaped to the United States, where he became associated with the Atomic Energy Project.
+> 
+> In his final years, he devoted himself to the peaceful application of atomic physics.
 
 Visible spectra (light)
 
@@ -78,23 +69,3 @@ Isaac Newton was a founding father of modern optics, discovered you can use pris
 When light shines through a prism, the light separates into pattern of colours, the pattern of colours is called a spectrum. Each colour of spectrum represents different wave lengths.
 
 **memorise the order of colours in spectrum!!**
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45d07327-703c-4864-9358-b1150d921e72/Untitled.png)
-
-
-
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-# Summary

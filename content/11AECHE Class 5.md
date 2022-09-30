@@ -2,10 +2,11 @@
 layout: default
 title: "11AECHE Class 5"
 ---
-# 11AECHE Class 5
 
 
-## Notes
+> [!NOTE] 
+> The following are answers to questions done in class, given by Ms Pilling.
+
 $Na_2CO_{3(aq)}+ 2HCl_{(aq)} \rightarrow 2NaCl_{(aq)} + CO_{2(g)} + H_2O_{(l)} \ \checkmark$
 
 Observation: Colourless solution is added to a colourless solution, a colourless, odorless gas is produced and released through bubbles (Effervescence) from the colourless solutions.
@@ -23,9 +24,9 @@ both sides are colourless solutions (so no physical changes), how do we know tha
 
 or indicators
 
-**How do we separate things?**
+## How do we separate things?
 
-Physical Means:
+### Physical Means:
 
 -   Filtration (Gravity filtration)
     -   used to separate heterogeneous mixtures composed of solids and liquids
@@ -61,9 +62,7 @@ Slightly soluble = soluble
 
 -   NaCl and CuCl_2 are both soluble in water, so using water to dissolve one but not the other doesn’t work. However, in Ethanol, as NaCl has a strong ionic bond, ethanol isn’t polar enough (dipole). So NaCl will not dissolve and CuCl_2 will.
 
-Next part:
-
-**Solutions:**
+### Solutions:
 
 -   **Solution:** A mixture in which the solute particles are homogenously distributed throughout particles of solvent
     
@@ -88,23 +87,3 @@ Next part:
 Solubility curves.
 
 **Solubility is measured in how many grams of solute dissolves in 100 mL.**
-
-
-
-
-
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-# Summary

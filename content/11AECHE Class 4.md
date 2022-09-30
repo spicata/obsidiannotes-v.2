@@ -2,13 +2,10 @@
 layout: default
 title: "11AECHE Class 4"
 ---
-# 11AECHE Class 4
 
+## Methods of Separation:
 
-## Notes
-**Methods of Separation:**
-
-**Objectives:**
+### Objectives:
 
 5 (Essential skills). Write and use balanced chemical equations to represent chemical reactions
 
@@ -16,16 +13,16 @@ title: "11AECHE Class 4"
 2.  Explain how differences in physical properties of substances in a mixture can be used to separate them.
 3.  Describe a range of separating techniques, and explain which physical property is utilised in the method of separation.
 
-Diagram Notes: 2d and with ruler
+> [!NOTE]
+> Diagram Notes: 2d and with ruler
+> 
 
 -   Filtration - filtration uses both solubility of a substance + particle size (D)
     -   For a solid and a liquid (insoluble substance)
     -   Uses a filter to allow the liquid to pass through (usually using small pores) but prevents the solid from passing.
     -   The solid should not be soluble in the liquid.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a63ce3e7-0777-4323-a551-5373f7304f50/Untitled.png)
-
-Method:
+### Methodology:
 
 1.  Place filtered paper in a funnel. Place this funnel above a flask.
 2.  Pour the mixture into the funnel.
@@ -35,8 +32,6 @@ Method:
     -   Uses differences in density
     -   Involves 2 liquid that form a heterogenous mixture.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c1d1e30-5e7a-4bb0-af06-613c48cd528f/Untitled.png)
-    
 -   Distillation - based on different boiling points (D)
     
     -   Water - 100 degrees celcius
@@ -45,8 +40,6 @@ Method:
     -   Distillation refers to the process of converting a liquid into a gaseous state, and then back into a liquid.
     -   Used to separate 2 or more liquids with different boiling points.
     -   Vapour is collected and condensed using a condenser.
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c9aab40-e30d-42c5-afd7-49098d5a57af/Untitled.png)
     
 -   Distillation apparatus
     
@@ -76,31 +69,7 @@ Method:
 
 (D) = need to know how to draw diagram
 
-Separating Mixtures:
+### Separating Mixtures:
 
 -   Mixtures can be separated by any means that makes use of the different physical properties of its constituents.
 -   The properties of the components of a mixture determine the best separation method
-
-**Homework:**
-
-Lucarelli Ch3: Mixtures and Separation , Set 4
-
-Pearson Ch 1: Materials in our world - nano-materials?
-
-
-
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-# Summary

@@ -2,10 +2,7 @@
 layout: default
 title: "11AECHE Class 2"
 ---
-# 11AECHE Class 2
 
-
-## Notes
 Objective 8 - Properties of matter:
 
 -   **Element - only one type of atom, contain same number of protons**
@@ -146,6 +143,12 @@ Note - compounds are separated by chemical means
 
 **Solutions (aq) are mixtures!!! :) thank you ethan widjaja**
 
+
+
+> [!tld] Post-Writing Commentary
+> Hey this is Ed 3 terms after this was written, just wanna say, damn I was stupid 3 terms ago. Still am today, just a little less. :)
+
+
 Chemical Equations Homework 1:
 
 a) $HCl_{(aq)}\ + \ NaOH_{(aq)} \rightarrow NaCl_{(aq)} \ + \ H_2O_{(l)}$
@@ -187,23 +190,5 @@ c) $CuSO_{4(aq)} + 2NaOH_{(aq)} \rightarrow Cu(OH)_{2(s)} + Na_2SO_{4(aq)}$
 d) $Cl_{2(g)} + 2KBr_{(aq)} \rightarrow 2KCl_{(aq)} + Br_{2(s)}$
 
 
-
-
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-# Summary
-
-
-
+> [!tld] More Post-Writing Commentary
+> This was the first and only time I legitimately did homework for Yr11 Chem. 

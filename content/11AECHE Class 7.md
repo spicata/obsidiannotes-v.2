@@ -2,11 +2,7 @@
 layout: default
 title: "11AECHE Class 7"
 ---
-# 11AECHE Class 7
 
-
-
-## Notes
 Essential skills
 
 Properties of matter
@@ -108,21 +104,3 @@ Heterogenous mixtures
 Q4:
 
 Decanting is a method of separation where gravity is used to separate a solid from a liquid. The liquid is gradually poured out from the solid-liquid mixture.
-
-
-
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-# Summary
