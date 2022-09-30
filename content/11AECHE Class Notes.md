@@ -2,7 +2,6 @@
 layout: default
 title: "11AECHE Class Notes"
 ---
-# Chem Class Notes (Yr 11)
 
 - [[11AECHE Class 1]]
 - [[11AECHE Class 2]]

@@ -3,8 +3,6 @@ layout: default
 title: "11AECHE Topic Notes"
 ---
 
-# Chem Topic Notes (Yr 11)
-
 - [[Essential Chemistry Skills|Essential Chemistry Skills]]
 - [[Properties of matter|Properties of matter]]
 - [[Nanomaterials|Nanomaterials]]

@@ -2,7 +2,6 @@
 layout: default
 title: "Electron Configuration"
 ---
-# Electron Configuration
 
 **Generic Electron Configuration**:
 * This is the basic electron configuration that you are taught in Yr 8

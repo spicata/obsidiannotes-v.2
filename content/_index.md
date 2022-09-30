@@ -2,7 +2,7 @@
 layout: default
 title: "Ed's Obsidian Notes"
 ---
-# Hello!
+## Hello!
 
 > ¯\\\_(ツ)\_/¯ maybe this works maybe it doesnt, but christian choe based
 
@@ -20,11 +20,10 @@ You may also wish to peruse through some sister-sites of this website, which I w
 
 I recommend looking through the [topic notes](11AECHE%20Topic%20Notes.md) above all, as most of the [class notes](11AECHE%20Class%20Notes.md) are unformatted, and the [published notes](11AECHE%20Published%20Notes.md) is looking quite barren. Please note however, I am yet to fully transition to a topic-style system when writing notes, so most of the topic notes have nothing in them. Do check out [Electron Configuration](Electron%20Configuration.md), I think its the only one with stuff.
 
-Also, here's my current [Class note-taking procedure](Class%20note-taking%20procedure.md). (I realise you don't actually have my vault yet, so this won't make sense to you. Its coming soon, trust me)
 
 You may also enjoy perusing my [Yr11 Chemistry textbook review](Chemistry%20Resources%20review.md).
 
-**Note:** The monkey face was chosen by Atharva Sathe.
+**Note:** The monkey face was chosen by Atharva Sathe. :)
 
 #### IMPORTANT!
 
