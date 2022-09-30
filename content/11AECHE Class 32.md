@@ -2,7 +2,7 @@
 layout: default
 title: "11AECHE Class 32"
 ---
-# 11AECHE Class 32
+
 
 **Solubility Curves:**
 * Solubility curves show the solubility of substances as temperature changes.
@@ -49,17 +49,3 @@ This was indeed said by Ms Pilling.
 **TLC Advantages**:
 * The glass plate is rigid, not flexible like paper, so it is easy to control.
 * After separation, the substances in the mixture can be recovered. The silica gel holding the separated substance is scraped off the glass plate and added to a solvent. The substance will dissolve and the silica gel can easily be removed by filtration. The glass plates can be recoated with silica gel and used over and over again.
-
----
-# Recall
-
-
-
-
-
-
-
----
-# Summary
-
-

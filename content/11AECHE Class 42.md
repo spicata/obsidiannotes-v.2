@@ -2,7 +2,6 @@
 layout: default
 title: "11AECHE Class 42"
 ---
-# 11AECHE Class 42
 
 - Alkenes: **unsaturated hydrocarbons**, containing a single double bond between Carbon atoms
 	- Higher ratio of carbon to hydrogen
@@ -41,5 +40,4 @@ e.g.
 		- $+H_2$ (hydrogenation) condition: Nickle catalyst for **industrial processes**
 			- Catalyst reduces requirement for temperature and pressure
 		- 
-
 

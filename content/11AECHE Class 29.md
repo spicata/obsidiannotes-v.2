@@ -2,7 +2,6 @@
 layout: default
 title: "11AECHE Class 29"
 ---
-# 11AECHE Class 29
 
 Intermolecular forces quiz:
 
@@ -55,17 +54,3 @@ All ionic substances are soluble to some extent, so we categorise substances by 
 * A substance is described as insoluble if a saturated solution is below 0.01 mol L-1
 
 * In most insoluble substances, the rate of reaction for ions to both be displaced and reform the ionic lattice is equal (without solvent). This leads to an equilibrium. When water is added, the rate of reaction for ions to become displaced increases. However, this increase is marginal. In theory, if you add enough solvent the substance will dissolve.
-
----
-# Recall
-
-
-
-
-
-
-
----
-# Summary
-
-

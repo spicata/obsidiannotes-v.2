@@ -2,7 +2,7 @@
 layout: default
 title: "11AECHE Class 43"
 ---
-# 11AECHE Class 43
+
 
 **Enthalpy** - **thermal energy at constant pressure**
 
@@ -15,11 +15,9 @@ Energy is **needed** to overcome **electrostatic force of attraction** and break
 
 Energy is **released** when bonds are formed.
 
-```ad-note
-title: Definition
+> [!NOTE]
+> *Enthalpy:* the total energy of a substance, including the energy stored in chemical bonds (**chemical potential energy**), and the energy of the substances motion(**kinetic energy**)
 
-*Enthalpy:* the total energy of a substance, including the energy stored in chemical bonds (**chemical potential energy**), and the energy of the substances motion(**kinetic energy**)
-```
 
 The bonds that are broken and formed and the particles that contain them are called the **system**. Essentially, its the **products and the reactants**.
 **Surroundings** are the things that are not involved in the reaction, but contain the system.
@@ -47,17 +45,3 @@ Likewise, if the temperature of surroundings decreases, this is a positive entha
 
 Endothermic reactions:
 - Photosynthesis (reverse combustion)
-
----
-# Recall
-
-
-
-
-
-
-
----
-# Summary
-
-

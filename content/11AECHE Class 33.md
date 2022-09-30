@@ -2,7 +2,6 @@
 layout: default
 title: "11AECHE Class 33"
 ---
-# 11AECHE Class 33
 
 **Gas Chromatography:**
 - GC is used widely in many analytical laboratories, including forensic police labs, synthetic chemical labs, and drug testing labs.
@@ -33,18 +32,3 @@ title: "11AECHE Class 33"
 Gas chromatography is not that useful for identifying substances (it is better as a separation technique). When used with Mass spectrometry, it becomes very effective.
 
 **Most important (chromatography method) is *paper and TLC***.
-
-
----
-# Recall
-
-
-
-
-
-
-
----
-# Summary
-
-

@@ -2,7 +2,6 @@
 layout: default
 title: "11AECHE Class 27"
 ---
-# 11AECHE Class 27
 
 **Types of Intermolecular Forces**:
 Note: Intermolecular means *between* molecules.
@@ -21,18 +20,4 @@ For molecules at a relatively similar size:
 
 For molecules that are **non-polar**:
 - Dispersion forces are the only intermolecular forces acting upon their molecules.
-
-
----
-# Recall
-
-
-
-
-
-
-
----
-# Summary
-
 

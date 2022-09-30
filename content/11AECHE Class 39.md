@@ -2,8 +2,6 @@
 layout: default
 title: "11AECHE Class 39"
 ---
-# 11AECHE Class 39
-
 
 Organic Chemistry:
 - Refers to carbon compounds
@@ -57,18 +55,3 @@ Alkanes: **saturated hydrocarbons**
 **Isomerism**:
 - Butane and methylpropane are **structural isomers**.
 - Isomers: Same molecular formula, different structural formula.
-
-
----
-# Recall
-
-
-
-
-
-
-
----
-# Summary
-
-

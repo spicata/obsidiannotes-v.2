@@ -2,7 +2,6 @@
 layout: default
 title: "11AECHE Class 28"
 ---
-# 11AECHE Class 28
 
 **Dispersion forces:**
 * Non-polar molecules/atoms have small, **temporary, fluctuating dipoles** due to random movement of electrons.
@@ -31,21 +30,3 @@ If you don't write the type of dipole, its assumed to be a permanent dipole.
 - When drawing a diagram, **always label the bond as hydrogen bonding**!
 
 NOTE: If you're ever drawing a diagram of intermolecular forces, **label the force**.
-
-
-
-
-
----
-# Recall
-
-
-
-
-
-
-
----
-# Summary
-
-

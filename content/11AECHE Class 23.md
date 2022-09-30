@@ -2,8 +2,6 @@
 layout: default
 title: "11AECHE Class 23"
 ---
-# 11AECHE Class 23
-
 
 **HOMEWORK:**
 * Revise atomic spectra
@@ -75,19 +73,3 @@ Electrical conductivity:
 * All metals are very electrically conductive, due to sea of delocalised electrons
 * Silicon - can **only** be electrically conductive if in impurities
 * Simple molecules - they have no delocalised electrons or charged particles (ions) that move around, therefore zero electrical conductivity.
-
-
-
----
-# Recall
-
-
-
-
-
-
-
----
-# Summary
-
-

@@ -2,7 +2,6 @@
 layout: default
 title: "11AECHE Class 41"
 ---
-# 11AECHE Class 41
 
 Properties of Alkanes
 - 3-ethylhexane
@@ -20,21 +19,3 @@ Chemical Properties:
 	- We cannot predict where the second bromine will be located. This is **uncontrollable**.
 	- For example, it could be 1,1-dibromoethane or 1,2-dibromoethane
 - *First carbon is the one with interesting things happening around it.*
-- 
-
-
-
-
----
-# Recall
-
-
-
-
-
-
-
----
-# Summary
-
-

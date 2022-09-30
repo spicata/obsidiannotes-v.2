@@ -2,7 +2,6 @@
 layout: default
 title: "11AECHE Class 30"
 ---
-# 11AECHE Class 30
 
 -   **Solution concentration**
 -   **Moles per litre (molarity) mol $L^{-1}$:** $c = \frac{n}{v}$
@@ -51,18 +50,3 @@ Thin layer chromatography:
 - A dry sample is placed in the silica gel matrix. As the solvent front moves up the gel, it dissolves the sample and caries it up the matrix with it.
 - Some of the particles in the sample stick more strongly to he silica gel than others, so they lag behind the solvent
 - Eventually the different substances in the sample separate out, with similar molecules travelling a similar distance.
-
-
----
-# Recall
-
-
-
-
-
-
-
----
-# Summary
-
-

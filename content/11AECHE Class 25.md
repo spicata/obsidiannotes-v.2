@@ -2,7 +2,6 @@
 layout: default
 title: "11AECHE Class 25"
 ---
-# 11AECHE Class 25
 
 
 **Empirical formula:** Simplest whole number ratio of atoms (of each element) in a compound/molecule
@@ -21,17 +20,5 @@ The attraction between the salt and water (ion-dipole) is relatively weak, thus 
                                 heat
 e.g. $CuSO_4.5H_{2}O \rightarrow CuSO_{4}+ 5H_2O$
 
-
----
-# Recall
-
-
-
-
-
-
-
----
-# Summary
-
-
+> [!NOTE]
+> The heat is meant to be on top of the arrow.
