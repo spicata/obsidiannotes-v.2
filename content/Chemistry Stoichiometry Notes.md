@@ -2,7 +2,6 @@
 layout: default
 title: "Chemistry Stoichiometry Notes"
 ---
-# Chemistry Stoichiometry Notes
 
 Before starting to learn about stoichiometry, think about this little analogy.
 

@@ -2,8 +2,6 @@
 layout: default
 title: "Organic Chem Notes"
 ---
-# Organic Chem Notes
-
 ---
 ### Key Definitions
 - *Organic Chemistry*: The study of carbon-containing compounds (e.g. $CH_4$)
@@ -73,8 +71,8 @@ Try drawing the rest of these hydrocarbons (e.g. propane, butane, etc.)
 | Double bond  | ene    | Alkenes          |
 | Triple bond  | yne    | Alkynes          | 
 - Double and triple bonds are special due to the presence of **isomers**, which will be covered later.
-- Structural formula rules (for **alkenes** (**do NOT** use this guideline for **alkenes/alkynes**)) are as follows:
-	- Draw the **longest chain**
+
+hah you want me to actually finish this? 
 
 
 
