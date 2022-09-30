@@ -35,3 +35,7 @@ The old website is now no longer worked on. It still exists. I can't be bothered
 ### 30/09/2022
 
 Ah it appears that Quartz automatically writes titles. Guess I gotta fix that. Also, I'm changing the formatting again :(
+
+![](000_Files/professional%20christian.png)
+
+/\\ Professional Christian moment
