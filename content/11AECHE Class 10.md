@@ -138,20 +138,3 @@ Plank discovered that Light energy is quantised.
 
 Einstein discovered that light waves have the properties of a particle.
 
-
-
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-# Summary

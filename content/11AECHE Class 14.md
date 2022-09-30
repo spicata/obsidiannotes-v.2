@@ -4,9 +4,6 @@ title: "11AECHE Class 14"
 ---
 # 11AECHE Class 14
 
-
-
-## Notes
 Write electronic configuration using s,p,d notation for:
 
 S -> $1s^22s^22p^63s^23p^4$
@@ -53,22 +50,8 @@ We would write chlorine as $\delta -$ , as since it pulls hydrogen closer the el
 
 ![[Pasted image 20220315150921.png]]
 
+
+> [!NOTE] 
+> Widjaja liked my diagram a lot. Actually, I think he called me "mentally insane" or something along the lines of those words. Thanks Widjaja ❤️😘
+
 Here, hydrogen has a weaker positive nuclear attractive force than chlorine (10 of its charge is shielded by it), so it does not attract the **bonding pair** as much as chlorine 
-
-
-
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-## Summary

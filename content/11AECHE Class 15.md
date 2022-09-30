@@ -2,10 +2,7 @@
 layout: default
 title: "11AECHE Class 15"
 ---
-# 11AECHE Class 15
 
-
-## Notes
 Check OneNote for homework
 
 Patterns in the Periodic table:
@@ -33,19 +30,3 @@ Larger atoms mean that valence electrons can be lost more easily, as they are fu
 
 * Going **across** a period will **increase nuclear charge**!
 * If the molecule is symmetrical it is non-polar and doesn't have dipole-dipole
-
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-## Summary

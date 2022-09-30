@@ -2,10 +2,6 @@
 layout: default
 title: "11AECHE Class 18"
 ---
-# 11AECHE Class 18
-
-
-## Notes
 
 * p-block elements gain one or more electrons to form stable anions.
 * An ionic bond is the electrostatic force of attraction between oppositely charged ions.
@@ -29,18 +25,3 @@ title: "11AECHE Class 18"
 * It can only dissolve **polar** substances, and water itself is polar.
 * **ION DIPOLE ATTRACTION**
 
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-## Summary

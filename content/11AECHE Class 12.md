@@ -2,9 +2,7 @@
 layout: default
 title: "11AECHE Class 12"
 ---
-# 11AECHE Class 12
 
-## Notes
 Limitations of the flame test:
 
 -   Only small number of metal ions can be distinguished in this way as Bunsen flame is not hot enough to excite the electrons of many atoms.
@@ -29,21 +27,3 @@ Barium is greenish blue, Strontium is red, lithium is red, Sodium is yellow, Cop
 -   Second shell holds 8 electrons
 -   Third shell holds 8 electron (but has reserve space for 10 more)
 -   This space is for the **transition metals**
-
-
-
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-# Summary

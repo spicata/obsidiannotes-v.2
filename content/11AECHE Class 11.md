@@ -2,10 +2,6 @@
 layout: default
 title: "11AECHE Class 11"
 ---
-# 11AECHE Class 11
-
-## Notes
-
 -   The absorption spectra and emission spectra for each element superimpose exactly.
 -   Each element’s energy levels are slightly different, no two elements have the same spectra.
 
@@ -18,20 +14,3 @@ Flame test: uses emission spectra
 **Mass spectrometry:**
 
 -   Used in the exploration of space
-
-
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-# Summary

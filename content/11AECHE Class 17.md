@@ -2,10 +2,7 @@
 layout: default
 title: "11AECHE Class 17"
 ---
-# 11AECHE Class 17
 
-
-## Notes
 
 **Bonding:**
 * Three distant substances:
@@ -81,18 +78,3 @@ It takes more energy to separate ions of metal if you have a higher melting poin
 yea ms pilling is the kind of teacher to teach an entire chem topic in a single lesson
 
 Note: **Most metals are found on the left side. As discussed previously in the Periodicity section, elements on the left have a lower ionisation(first + others) energy. This is essential as there must be little energy required to ionise metal atoms to produce cations and a sea of delocalised electrons**
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-## Summary

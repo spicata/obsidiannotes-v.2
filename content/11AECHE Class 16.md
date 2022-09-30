@@ -2,10 +2,7 @@
 layout: default
 title: "11AECHE Class 16"
 ---
-# 11AECHE Class 16
 
-
-## Notes
 
 To determine whether something is polar or non-polar, you have to take into account the following:
 * relative **electronegativity** of composite atoms
@@ -60,18 +57,3 @@ Outer electrons are closer to the nucleus, thus they will experience **stronger 
 **Always mention more/less energy required!!!!**
 
 **Bonding**
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-## Summary

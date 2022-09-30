@@ -2,9 +2,7 @@
 layout: default
 title: "11AECHE Class 13"
 ---
-# 11AECHE Class 13
 
-## Notes
 Electron configuration:
 * First shell holds two elect rons
 * Second shell holds 8 electrons
@@ -139,25 +137,7 @@ Research **isoelectronic** species - same electron configurations
 
 **Isoelectronic species:**
 
-```ad-info
-To have the same number of electrons or the same electronic structure.
-
-```
+> [!Info]
+> To have the same number of electrons or the same electronic structure.
 
 Essentially, its when two or more molecules have the same structure and electronic configuration, but differ by elements.
-
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-## Summary
