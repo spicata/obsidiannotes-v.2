@@ -2,10 +2,6 @@
 layout: default
 title: "11AECHE Class 19"
 ---
-# 11AECHE Class 19
-
-
-## Notes
 
 **Electrical Conductivity**
 
@@ -43,22 +39,3 @@ What happens if:
 $NaCl_{(s)} + aq \rightarrow Na^{+}_{(aq)}+ Cl^-_{(aq)}$
 
 You get a solution called an **electrolyte**, a solution that conducts electricity and contains charged particles (ions).
-
-
-
-
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-## Summary

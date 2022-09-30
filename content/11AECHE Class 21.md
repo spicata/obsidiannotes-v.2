@@ -2,7 +2,6 @@
 layout: default
 title: "11AECHE Class 21"
 ---
-# 11AECHE Class 21
 
 **VSEPR:** 
 * The four pairs of electrons around a central atom repel each other.
@@ -29,17 +28,3 @@ Graphite:
 * Shape: Triangular planar, bond angle 120 degrees, ==layers==
 	* These layers attract each other via **weak** electrostatic forces of attraction, known as **weak dispersion forces**.
 * Conductivity: Slightly conductive, there is a mobile charged particle.
-
----
-# Recall
-
-
-
-
-
-
-
----
-# Summary
-
-

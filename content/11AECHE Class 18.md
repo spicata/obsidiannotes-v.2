@@ -24,4 +24,3 @@ title: "11AECHE Class 18"
 * Water is a universal solvent.
 * It can only dissolve **polar** substances, and water itself is polar.
 * **ION DIPOLE ATTRACTION**
-

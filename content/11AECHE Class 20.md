@@ -2,10 +2,6 @@
 layout: default
 title: "11AECHE Class 20"
 ---
-# 11AECHE Class 20
-
-
-## Notes
 
 **Covalent bond:** A shared pair of electrons. There is an electrostatic force of attraction between the bonding pairs of electrons and the nuclei of the atoms at each side.
 
@@ -31,19 +27,3 @@ Nitrogen gas bonds in triple bonds. Therefore, to make nitrogen do anything, you
 
 **NOTE: Pyramidal bond angle is 107 degrees, Triangular planar is 120 degrees. RESEARCH OCTET EXPANSION**
 
-
-
-
----
-## Recall
-
-
-
-
-
-
-
-
----
-
-## Summary
