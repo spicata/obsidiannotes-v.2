@@ -4,6 +4,8 @@ title: "Ed's Obsidian Notes"
 ---
 ## Hello!
 
+
+> [!quote] Funny quote from me
 > ¯\\\_(ツ)\_/¯ maybe this works maybe it doesnt, but christian choe based
 
 Welcome to my website! I'm [Ed](about.md), and this website is essentially **Obsidian Publish on steroids**, i.e. *this is where I publish my obsidian notes*. 
@@ -12,7 +14,8 @@ The website runs using **Github pages** and **quartz**, with special thanks to J
 
 Anyways, the point of this website is to make education free and accessible, as it should be. I will be uploading my generic class notes here, alongside some more refined subject-specific notes, such as methods, spec and chem.
 
->Please note that methods and specialist notes will probably be very bad, as you really should be making notes on these subjects yourself. However, the chemistry notes will be of moderate quality, and will be good to read in your spare time if you aren't exactly learning the topics in class.
+> [!NOTE]
+> Please note that methods and specialist notes will probably be very bad, as you really should be making notes on these subjects yourself. However, the chemistry notes will be of moderate quality, and will be good to read in your spare time if you aren't exactly learning the topics in class.
 
 **All current notes are available at [Notes](Notes.md)** 
  
