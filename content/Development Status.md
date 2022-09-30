@@ -43,6 +43,10 @@ Ah it appears that Quartz automatically writes titles. Guess I gotta fix that. A
 ![](000_Files/professional%20christian.png)
 
 ![](000_Files/Pasted%20image%2020220930194949.png)
+![](000_Files/Pasted%20image%2020220930200050.png)
+
+> [!quote] 
+> "healthcare"
 
 ##### Christian now
 
