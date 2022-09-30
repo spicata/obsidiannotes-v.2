@@ -2,7 +2,7 @@
 layout: default
 title: "Chemistry Resources review"
 ---
-# Chemistry Resources review
+
 ## Number 1: Lucarelli
 - Solid 9/10. Love the author, love the questions, love the style of learning.
 	- To be honest, the chapters are kinda mediocre. They're good to briefly read as revision, and they're definitely better than Pearson, but other than that, they aren't too great.
