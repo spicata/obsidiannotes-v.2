@@ -32,3 +32,6 @@ We have moved to quartz!!! Yay!
 The old website is now no longer worked on. It still exists. I can't be bothered to close it. Also the repo is now accessible. Might have to change a few things. Not sure though.
 
 
+### 30/09/2022
+
+Ah it appears that Quartz automatically writes titles. Guess I gotta fix that. Also, I'm changing the formatting again :(
