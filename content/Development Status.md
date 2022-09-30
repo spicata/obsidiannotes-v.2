@@ -36,6 +36,15 @@ The old website is now no longer worked on. It still exists. I can't be bothered
 
 Ah it appears that Quartz automatically writes titles. Guess I gotta fix that. Also, I'm changing the formatting again :(
 
+#### Sidenote: How making a website erodes your mental stability
+
+##### Christian in Yr 7/8
+
 ![](000_Files/professional%20christian.png)
 
-/\\ Professional Christian moment
+![](000_Files/Pasted%20image%2020220930194949.png)
+
+##### Christian now
+
+![](000_Files/Pasted%20image%2020220930195139.png)
+
