@@ -7,8 +7,7 @@ title: "Finding angle given 3 sides without using cosine rule"
 
 **SAS Area Formula**: $A = \frac{1}{2} a b \sin(\gamma)$ where $\gamma$ is the angle opposite side $c$.
 
-![](000_Files/triangle_ABC_angles.gif)
-
+![](000_Files/1200px-Triangle_with_notations_2.svg.png)
 $\therefore \sqrt{ s(s-a)(s-b)(s-c)} = \frac{1}{2}ab\sin(\gamma)$
 
 $2 \times \sqrt{ s(s-a)(s-b)(s-c)} = 2 \times \frac{1}{2}ab\sin(\gamma)$
