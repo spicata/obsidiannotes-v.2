@@ -1,21 +1,17 @@
-*Date: {{date:YYYY MM DD}} Time: {{time:HH:mm}}*
+---
+layout: default
+title: "{{title}}"
+---
 
-# {{title}}
-
-
-
-
+### Related Topics:
+--- 
+[[Year 11 Chem]]
 
 ---
-# Recall
 
 
 
 
 
-
-
----
-# Summary
 
 
