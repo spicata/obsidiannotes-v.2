@@ -3,8 +3,8 @@ layout: default
 title: "11AECHE Class Notes"
 ---
 
-- [[11AECHE Class 1]]
-- [[11AECHE Class 2]]
+- [R-AECHE-1](R-AECHE-1.md)
+- [[aech]]
 - [[11AECHE Class 3]]
 - [[11AECHE Class 4]]
 - [[11AECHE Class 5]]
