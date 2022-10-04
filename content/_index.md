@@ -21,7 +21,7 @@ Anyways, the point of this website is to make education free and accessible, as 
  
 You may also wish to peruse through some sister-sites of this website, which I wholly recommend you do. Especially *"spicata"*'s one. You'll find them all [here](https://notes-coalition.github.io/).
 
-I recommend looking through the [topic notes](11AECHE%20Topic%20Notes.md) above all, as most of the [class notes](11AECHE%20Class%20Notes.md) are unformatted, and the [published notes](11AECHE%20Published%20Notes.md) is looking quite barren. Please note however, I am yet to fully transition to a topic-style system when writing notes, so most of the topic notes have nothing in them. Do check out [Electron Configuration](Electron%20Configuration.md), I think its the only one with stuff.
+I recommend looking through the [topic notes](11AECHE%20Topic%20Notes.md) above all, as most of the [class notes](AECHE%20Class%20Notes.md) are unformatted, and the [published notes](11AECHE%20Published%20Notes.md) is looking quite barren. Please note however, I am yet to fully transition to a topic-style system when writing notes, so most of the topic notes have nothing in them. Do check out [Electron Configuration](Electron%20Configuration.md), I think its the only one with stuff.
 
 > [!important] Page Shoutout
 > [11AECHE Class 32](11AECHE%20Class%2032.md)
