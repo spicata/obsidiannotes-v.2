@@ -10,12 +10,12 @@ title: "11AECHE Class Notes"
 - [R-AECHE-5](R-AECHE-5.md)
 - [R-AECHE-6](R-AECHE-6.md)
 - [R-AECHE-7](R-AECHE-7.md)
-- [[11A]]
-- [[11AECHE Class 9]]
-- [[11AECHE Class 10]]
-- [[11AECHE Class 11]]
-- [[11AECHE Class 12]]
-- [[11AECHE Class 13]] 
+- [R-AECHE-8](R-AECHE-8.md)
+- [R-AECHE-9](R-AECHE-9.md)
+- [R-AECHE-10](R-AECHE-10.md)
+- [R-AECHE-10](R-AECHE-10.md)
+- [R-AECHE-11](R-AECHE-11.md)
+- [[]]
 - [[11AECHE Class 14]]
 - [[11AECHE Class 15]]
 - [[11AECHE Class 16]]
