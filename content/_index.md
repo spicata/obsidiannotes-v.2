@@ -4,7 +4,6 @@ title: "Ed's Obsidian Notes"
 ---
 ## Hello!
 
-
 > [!quote] Funny quote from me
 > ¯\\\_(ツ)\_/¯ maybe this works maybe it doesnt, but christian choe based
 

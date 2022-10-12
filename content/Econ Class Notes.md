@@ -20,6 +20,7 @@ layout: default
 - [[Econ Class 14]]
 - [[Econ Class 15]]
 - [[Econ Class 16]]
+- [[Econ Class 17]]
 
 
 
