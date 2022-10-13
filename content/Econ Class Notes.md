@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Econ Class Notes"
 ---
 
 # Econ Class Notes
