@@ -65,3 +65,22 @@ A state or condition in which an individual or group lacks the financial resourc
 	- However, while the policy lowered the general poverty rate, Indigenous Australians still find themselves at a greater risk of poverty, with a poverty rate of 26% by the end of 2016, more than double the overall rate.
 	- The government was successful in reducing dependency on the welfare system. However, it requires a greater funding for client employment incentives. It needs to tackle inequities in a changing labour market.
 	- In summary, the implementation of a neo-liberal agenda within Australia's welfare system has brought mild success in combatting poverty and stabilising poverty rates through turbulent global economic crises.
+
+### What causes poverty?
+There are numerous global causes for poverty, such as:
+- Inadequate access to clean water
+- Inadequate access to quality food
+- Low job opportunities
+- Regional conflict
+- Inequality (in general)
+- Poor education/skills training
+- Climate change
+- Lack of infrastructure
+- Weak government support
+
+### Causes of poverty in Australia
+In Australia, the **main cause** of poverty is **wealth inequality**. Recent economic issues such as the housing crisis also influence poverty.
+
+
+### Solutions to poverty in Australia
+Greater funding and expansion of Australia's welfare system could help lift people out of poverty. Furthermore, more fiscal/monetary intervention towards policy that makes critical goods such as housing more affordable can relieve some families of financial stresses.
