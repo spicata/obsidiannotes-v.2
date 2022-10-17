@@ -71,6 +71,27 @@ title: "Econ  Class 18"
 - The word relative means in comparison to, so we define poverty concern the **overall distribution of income** to another person/family/country.
 - We either compare members of a country, or we compare **countries with countries**.
 
+### Housing
+- Housing is fundamental to all Australians and our housing market has a significant influence on a numbe of key social and economic aspects of society.
+- It plays a major role in the health and wellbeing of Australians, by providing shelter, safety, security and privacy.
+- The availaability of affordable, sustainable and appropriate housing enables people to participate in the social, economic and community aspects of their lives.
+- From a social perspective, housing provides a stable base from which we can participate in society, form families, and enjoy retirement. Housing can determine lifetime education, employment and health outcomes.
+- From an economic perspective, housing has a significant impact upon investment, productivity and participation, as well as consumption and saving trends across the economy.
+#### Housing security
+- What happens when our society cannot maintain affordable housing?
+- Alot of bad consequences.
+- The absence of affordable, secure and appropriate housing can result in homelessness, poor health and lower rates of employment and education.
+
+#### Homelessness
+- People experiencing homelessness include those who sleep rough on the streets or under **makeshift** dwellings.
+- Although people who sleep rough are most visible to the public, they only represent 7% of homelessness in Australia.
+- Homelessness can also include individuals and families moving between temporary shelters, including housing of friends, family and emergency acommodation.
+- The legal definition is different for every country.
+- People who are homeless are most often unable to acquire and maintain regular, safe, secure and adequate housing due to an unsteady or lack of income.
+- Homelessness and **poverty** are **interrelated**.
+	- *It is difficult to get a job, if you lack a stable environment to apply for jobs.*
+- In general, there is no methodological consent on counting the homeless and identifying their special needs, thus in most cities only estimated homeless populations are know.
+
 ### The poverty line
 - Poverty line is often discussed in relation to poverty, which means an estimated minimum household income threshold, which is required to fulfil the basic necessities of life.
 - Any person or family below this threshold is identified as poor.
@@ -90,5 +111,6 @@ What affects income?
 - Business incomes:
 	- Economic climate
 	- Factors of Production cost?
+
 
 
