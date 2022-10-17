@@ -68,9 +68,27 @@ title: "Econ  Class 18"
 - Someone who lacks the least amount of income required to maintain the normal standard of living, in the society to which they belong.
 	- For example they may not have access to housing
 - They are **relatively poor** compared to other members of society.
+- The word relative means in comparison to, so we define poverty concern the **overall distribution of income** to another person/family/country.
+- We either compare members of a country, or we compare **countries with countries**.
 
 ### The poverty line
 - Poverty line is often discussed in relation to poverty, which means an estimated minimum household income threshold, which is required to fulfil the basic necessities of life.
 - Any person or family below this threshold is identified as poor.
+
+### What is income:
+- Income is money that an individual or business receives, usually from exchanging by providing a good or service through investing capital.
+- Investments, pensions, and forms of welfare payment are primary sources of income for retirees.
+- FOr individuals, income is most often received in the form of wages or salary.
+- Business income can refer to a company's remaining revenues after paying all expenses and taxes. In this case, income is referred to as "earnings". Most forms of income are subject to taxation
+
+What affects income?
+- Personal incomes:
+	- Economic/social/political conditions
+	- Education
+	- Experience
+	- etc.
+- Business incomes:
+	- Economic climate
+	- Factors of Production cost?
 
 
