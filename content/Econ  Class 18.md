@@ -18,6 +18,8 @@ title: "Econ  Class 18"
 	- The dimensions measured are usually life expectancy, literacy, rate, leisure hours, etc.
 	- Non-material living standards must also be considered when assessing the quality of life.
 	- Non-material living standards cannot be measured in dollar terms, and are intangible, but affect our enjoyment of life.
+	- Non-material living standards are **hard to measure**.
+		- We have some indicators, however, such as the OECD Better Life Index.
 
 ### Examples of Material standards of living
 - Income
@@ -40,8 +42,14 @@ title: "Econ  Class 18"
 - ***Preservation of the environment*** - allowing citizens to enjoy nature, breathe clean air and drink clean water
 - **Adequate leisure time** - so that employment have adequate rest periods away from work and time to spend with family
 
-### Effect of this in the real world:
+### Effect of living standards in the real world:
 - China has focused primarily on the material standard of living when progressing their economy.
 
+### Important questions about living standards:
+- What happens when basic living standards are not met?
+- What are basic needs that would ensure an acceptable standard of living for an individual in society?
+- What are some benchmarks that allow us to ascertain if living standards are met
+- Are material needs more important than non-material needs?
 
+- **How has Australia fared over the years?**
 
