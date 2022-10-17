@@ -53,3 +53,24 @@ title: "Econ  Class 18"
 
 - **How has Australia fared over the years?**
 
+## Poverty
+- Poverty can be defined as the state in which an individual or household is not able to fulfil minimum consumption needs.
+- It is not always about money, but it also entails access to basic facilities such as proper hygiene, sanitation, food, shelter, drinking water, health, education, transport, whose absence as a whole, is regarded as poverty.
+- It can be absolute poverty or relative poverty. Absolute poverty is when there is an absence of a minimum level of subsistence needed for the basic well being.
+
+### Absolute poverty
+- Cannot meet the basic necessities of life
+	- Sanitation, medical care, education, food
+- We compare the income of a household with the standard minimum income of the household within an economy.
+- This standard is different depending on the country.
+
+### Relative poverty
+- Someone who lacks the least amount of income required to maintain the normal standard of living, in the society to which they belong.
+	- For example they may not have access to housing
+- They are **relatively poor** compared to other members of society.
+
+### The poverty line
+- Poverty line is often discussed in relation to poverty, which means an estimated minimum household income threshold, which is required to fulfil the basic necessities of life.
+- Any person or family below this threshold is identified as poor.
+
+
