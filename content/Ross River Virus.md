@@ -6,11 +6,11 @@ title: "Ross River Virus"
 ### Structure
 Ross River Virus is an endemic RNA virus found predominantly in Australia, but has been discovered in other Pacific nations such as Papua New Guinea.  
 
-Coming under the classification of an Alphavirus, the Ross River Virus' genome is encased within an envelope that also contains a layer of capsid proteins which makes up a protein shell.  The shape of the Ross River Virus is also spherical, and the virus itself is incredibly small, being around 70nm in diameter. The Ross River Virus is single-stranded due to it being a RNA virus.
+Coming under the classification of an Alphavirus, the Ross River Virus' genome is entirely made of RNA.  The shape of the Ross River Virus is also spherical, and the virus itself is incredibly small, being around 70nm in diameter. The Ross River Virus is single-stranded alongside being a RNA virus.
 
 ![](000_Files/Pasted%20image%2020221101091915.png)
 
-when the virus passes through a cell's membrane, this RNA is released to order the cell's nucleus to replicate virus RNA and proteins. The presence of a protein shell (capsid) located within the membrane protects the genome and allows a stable environment for the genome to persist against biological and chemical agents. This combats defence mechanisms employed by cells, such as protease. The viral envelope surrounding a Ross River Virus' protein shell is comprised from the intracellular membrane of the virus' host cell, which allows the virus to pass through other membranes of similar cells.
+when the virus passes through a cell's membrane, this RNA is released to order the cell's nucleus to replicate virus RNA and proteins. The presence of a protein shell (capsid) located within the membrane protects the genome and allows a stable environment for the genome to persist against biological and chemical agents. This combats defence mechanisms employed by cells, such as protease. The viral envelope surrounding a Ross River Virus' protein shell is comprised from the intracellular membrane of the virus' host cell, which allows the virus to pass through other membranes of similar cells. This is aided by the presence of glycoproteins dispersed on the virus' envelope.
 
 ![](000_Files/Pasted%20image%2020221101092948.png)
 
@@ -27,6 +27,8 @@ Its virulence is quite potent, causing fatigue and arthritis-related symptoms th
 Most cases of Ross River Virus are found within Queensland, the Northern Territory, and tropical regions of Western Australia, with the risk of contracting Ross River Virus increasing greater rainfall. In tropical areas, cases of Ross River Virus are more common during the "wet season", i.e. when rainfall is at its greatest, and mosquito populations are high. Specific areas of high risk are communities near the Murray River.
 
 Individuals near adequate areas for mosquito breeding (marsh, wetland, standing water) are more at risk, and thus Ross River Virus mostly affects rural areas. 
+
+![](000_Files/Pasted%20image%2020221101093120.png)
 
 There is no distinction between how the virus affects gender, but adults aged between 25-44 years old are more likely to be infected.
 
