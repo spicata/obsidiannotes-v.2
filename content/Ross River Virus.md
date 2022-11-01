@@ -15,7 +15,9 @@ when the virus passes through a cell's membrane, this RNA is released to order t
 ![](000_Files/Pasted%20image%2020221101092948.png)
 
 ### Symptoms
-Ross River Virus is loosely termed "epidemic polyarthritis", with its primary symptoms being arthritis and joint pain, alongside a rash occurring around 10 days after arthritis. Infection also comes with flu-like symptoms, such as flu, chills, and headaches. 
+Ross River Virus is loosely termed "epidemic polyarthritis", with its primary symptoms being arthritis and joint pain, alongside a rash occurring around 10 days after arthritis. Infection also comes with flu-like symptoms, such as flu, chills, and headaches.
+
+![](000_Files/Pasted%20image%2020221101143227.png)
 
 Most concerningly, Ross River Virus causes fatigue in almost all cases (90%), which can turn into chronic fatigue, which affects 9% of individuals a year after infection.
 
@@ -31,9 +33,11 @@ There is no distinction between how the virus affects gender, but adults aged be
 ### Mode of Transmission
 The virus is indirectly spread via vectors, i.e. mosquitos. Virus particles are transmitted to a host population via a second separate population. In this case, individuals of the second population are considered "vectors", and usually are blood-sucking arthropods such as mosquitos and ticks. Ross River Virus uses mosquitos as a vector, most prevalently mosquitos of the Aedes genus.
 
+![](000_Files/mosquito.png)
+
 Transmission for Ross River Virus occurs when a vector bites an infected individual, which a chance of the disease being transmitted to the vector. This vector then bites another individual. At this stage, the individual is not yet infected. However, if the virus is not eradicated within the individual's body, the individual becomes infectious after a latency period. A new vector can then bite the newly infected individual, repeating the cycle.
 
-###Graph Analysis
+### Graph Analysis
 ![](000_Files/Pasted%20image%2020221101112709.png)
 (sourced from the Department of Health and Aged Care website)
 
