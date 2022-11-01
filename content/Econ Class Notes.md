@@ -23,5 +23,6 @@ title: "Econ Class Notes"
 - [[Econ Class 16]]
 - [[Econ Class 17]]
 - [[Econ  Class 18]]
+- [[Econ Class 19]]
 
 

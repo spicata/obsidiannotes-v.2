@@ -112,5 +112,7 @@ What affects income?
 	- Economic climate
 	- Factors of Production cost?
 
+## Lesson Tasks:
+- Look at different types of housing in Australia, and find how much is available (private, rental, public)
 
 
