@@ -16,3 +16,6 @@ I will not be adding a "return to x" button, that exists already.
 * [[Econ Class Notes]]
 * [[Comp Sci Class Notes]]
 * [[Science Physics Notes]]
+
+For Fred:
+- [Bio Body Reponse Notes](Bio%20Body%20Reponse%20Notes.md)
