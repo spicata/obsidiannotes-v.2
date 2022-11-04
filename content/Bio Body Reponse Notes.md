@@ -3,7 +3,7 @@ layout: default
 title: "Bio Body Reponse Notes"
 ---
 ## Inflammation/Inflammatory Response
-- Skin is broken. Non-specific immune response occurs. THis is an example of mechanical damage.
+- Skin is broken. Non-specific immune response occurs. This is an example of mechanical damage.
 - Specialised leucocytes, **mast cells**, are activated and cause ***several chemicals*** to be released, such as:
 	- **histamine**:
 		- Increases blood flow to the area through vasodilation.

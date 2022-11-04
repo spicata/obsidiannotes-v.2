@@ -12,8 +12,8 @@ title: "Econ  Class 18"
 	- Material living standards refer to our access to physical goods and services.
 	- The car we drive, the house we live in and the food we eat are all examples of physical possessions that contribute to our material living standards.
 	- The material living standards of a nation are usually accessed or measured by the quantity of goods and services available each year as measured by , for example, GDP.
-	- Many would agree that if the citizens of a countr yahve access to more goods and services to satisfy their needs and wants, life is generally better.
-	- Moreover, producing goods and services provides citizens with employment, and therefore an income to buy goods and services that imrpove their lives.
+	- Many would agree that if the citizens of a country have access to more goods and services to satisfy their needs and wants, life is generally better.
+	- Moreover, producing goods and services provides citizens with employment, and therefore an income to buy goods and services that improve their lives.
 - Non-material Standards measure **intangibles**, focusing on **quality of life**
 	- The dimensions measured are usually life expectancy, literacy, rate, leisure hours, etc.
 	- Non-material living standards must also be considered when assessing the quality of life.
@@ -72,14 +72,14 @@ title: "Econ  Class 18"
 - We either compare members of a country, or we compare **countries with countries**.
 
 ### Housing
-- Housing is fundamental to all Australians and our housing market has a significant influence on a numbe of key social and economic aspects of society.
+- Housing is fundamental to all Australians and our housing market has a significant influence on a number of key social and economic aspects of society.
 - It plays a major role in the health and wellbeing of Australians, by providing shelter, safety, security and privacy.
-- The availaability of affordable, sustainable and appropriate housing enables people to participate in the social, economic and community aspects of their lives.
+- The availability of affordable, sustainable and appropriate housing enables people to participate in the social, economic and community aspects of their lives.
 - From a social perspective, housing provides a stable base from which we can participate in society, form families, and enjoy retirement. Housing can determine lifetime education, employment and health outcomes.
 - From an economic perspective, housing has a significant impact upon investment, productivity and participation, as well as consumption and saving trends across the economy.
 #### Housing security
 - What happens when our society cannot maintain affordable housing?
-- Alot of bad consequences.
+- A lot of bad consequences.
 - The absence of affordable, secure and appropriate housing can result in homelessness, poor health and lower rates of employment and education.
 
 #### Homelessness
@@ -99,7 +99,7 @@ title: "Econ  Class 18"
 ### What is income:
 - Income is money that an individual or business receives, usually from exchanging by providing a good or service through investing capital.
 - Investments, pensions, and forms of welfare payment are primary sources of income for retirees.
-- FOr individuals, income is most often received in the form of wages or salary.
+- For individuals, income is most often received in the form of wages or salary.
 - Business income can refer to a company's remaining revenues after paying all expenses and taxes. In this case, income is referred to as "earnings". Most forms of income are subject to taxation
 
 What affects income?

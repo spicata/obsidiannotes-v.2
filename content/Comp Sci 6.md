@@ -8,8 +8,10 @@ title: "Comp Sci 6"
 
 - PAN: Personal Area network, things in your personal area e.g. mobile phones
 - LAN: Local Area network, things local to you, e.g. your neighbourhood
+- WLAN: **Wireless Local Area network**
 - MAN: Metropolitan Area network, things in your city
 - WAN: Wide Area network, things around the world, the stuff that connects countries
+- **Cloud Based Network**
 
 What is a network?
 

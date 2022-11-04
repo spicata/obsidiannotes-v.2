@@ -12,5 +12,6 @@ title: "Comp Sci Class Notes"
 - [[Comp Sci 5]]
 - [[Comp Sci Task 1]]
 - [[Comp Sci 6]]
+- [[Comp Sci 7]]
 
 
