@@ -58,3 +58,5 @@ Ah it appears that Quartz automatically writes titles. Guess I gotta fix that. A
 I have moved to Linux!!!
 
 Give medal :)
+
+yea at this point im just testing
