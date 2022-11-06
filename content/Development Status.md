@@ -56,3 +56,5 @@ Ah it appears that Quartz automatically writes titles. Guess I gotta fix that. A
 ## 6/11/2022
 
 I have moved to Linux!!!
+
+Give medal :)
