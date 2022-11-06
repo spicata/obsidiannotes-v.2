@@ -52,3 +52,7 @@ Ah it appears that Quartz automatically writes titles. Guess I gotta fix that. A
 
 ![](000_Files/Pasted%20image%2020220930195459.png)
 (this was for politics and law, which clearly indicates Christian's decline in mental strength over time)
+
+## 6/11/2022
+
+I have moved to Linux!!!
