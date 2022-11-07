@@ -69,8 +69,9 @@ $SO^{-2}_{3}$: $S$: +4
 
 Zinc + Copper (ii) Sulfate ->
 - Molecular eq
-	- Zn
+	- $Zn_{(s)} + CuSO_{4(aq)} \to ZnSO_{4(aq)} + Cu_{(s)}$
 - Ionic eq
-- What is oxidis
-- ed? What is reduced?
+	- $Zn_{(s)} + Cu^{2+}_{(aq)} \to Zn^{2+}_{(aq)} + Cu_{(s)}$
+- What is oxidised? What is reduced?
+	- Zinc is oxidised, Copper is reduced.
 
