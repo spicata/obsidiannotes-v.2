@@ -67,3 +67,10 @@ Sodium Chlorate (?)
 
 $SO^{-2}_{3}$: $S$: +4
 
+Zinc + Copper (ii) Sulfate ->
+- Molecular eq
+	- Zn
+- Ionic eq
+- What is oxidis
+- ed? What is reduced?
+
