@@ -1,4 +1,4 @@
----
+ssh---
 layout: default
 title: "R-AECHE-46"
 ---
@@ -73,5 +73,5 @@ Zinc + Copper (ii) Sulfate ->
 - Ionic eq
 	- $Zn_{(s)} + Cu^{2+}_{(aq)} \to Zn^{2+}_{(aq)} + Cu_{(s)}$
 - What is oxidised? What is reduced?
-	- Zinc is oxidised, Copper is reduced.
+	- Zinc is oxidised, Copper **in $CuSO_4$ solution(or $Cu^{2+}$ ions)** is reduced.
 
