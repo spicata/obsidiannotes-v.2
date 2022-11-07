@@ -56,8 +56,8 @@
 	- Tower provides access to multiple mobile devices. This tower connected to another tower, which provides access to other mobile devices, etc.
 	- This is called **cellular**, because one tower connected to multiple devices is **one cell**.
 	- Transmit/receive **analogue** **radiowaves**.
-	- WiFi
-		- Device that provides access in a small area of connectivity.
+- WiFi
+	- Device that provides access in a small area of connectivity.
 
 
 3.  What are the problems associated with wired transmission media
@@ -90,14 +90,15 @@
     
 -   **TCP/IP (IP4, IP6)**
 	- See diagram above
-	- - Application
-	- Person A send email to B. The application layer. The data to be sent is found in the application layer
-- Transport 
-	- How is the data transferred?
-- Internet
-	- Address of device sending + address of device receiving
-- Link
-	- Type of transmission media in which this data is sent.
+	- Application
+		- Person A send email to B. The application layer. The data to be sent is found in the application layer
+	- Transport 
+		- How is the data transferred?
+	- Internet
+		- Address of device sending + address of device receiving
+	- Link
+		- Type of transmission media in which this data is sent.
+
 	- Difference between IPv4 and IPv6:
 		- v4: 32 bit address
 			- Number of ip addresses running out
