@@ -109,14 +109,15 @@ Devices:
 - Printer
 - Wireless tablet
 - WAP
-- 3 things in a device:
+- 3 things in a device (gateway):
 	- Modem (see below)
 	- Firewall 
 		- Software that filters packets of data that come into a **local network**
 	- Router
 ### Bridge
-- "like a switch"
-- Receive messages distributed through a network and sends to other networks.
+- "like a switch" (this is me speaking now) "for networks"
+- ~~Receive messages distributed through a network and sends to other networks.~~
+- Connects **network segments** within a domain together.
 
 ### Switches
 - Switches have 5-48 ports. 24 ports is common.
@@ -153,6 +154,7 @@ Devices:
 > [!NOTE] Important!
 > Use Cisco System for default diagrams.
 
+![](000_Files/Pasted%20image%2020221106191623.png)
 
 > [!NOTE] VERY IMPORTANT!
 > Learn Cisco Diagrams!!!!
