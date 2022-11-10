@@ -156,3 +156,5 @@ Devices:
 
 > [!NOTE] VERY IMPORTANT!
 > Learn Cisco Diagrams!!!!
+
+certified mr wilson moment
