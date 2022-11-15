@@ -13,7 +13,7 @@ Concept of networking is that 2 or more entities(devices) that are able to conne
 	- Client to server is the **most important**
 	- Peer to peer works with just simple connections (computer to computer)
 - Layout: Topology (Bus, Start, Ring, etc.)
-- Protocols: TCP/IP, HTTP, etc.
+- Protocols: TCP/IP, HTTP, HTTPS, etc.
 ### Topologies
 - Ring
 	- Each device is connected to each other in circular format.
