@@ -4,6 +4,7 @@ resources
 .idea
 content/.obsidian
 content/Cortex.md
+content/pass.md
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 linkmap
