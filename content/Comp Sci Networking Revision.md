@@ -5,6 +5,7 @@
 -   Switch
 	- **Switches connect many devices to each other in a network.**
 	- **Routers send and receive data from another network to the switch, switch sends and receives this data to other devices.** 
+		- ***Vs. Hub: Switch is Data link on OSI model, Hub is physical***
     
 -   Firewall
 	- **Software that filters packets of data that come into a local network**

@@ -64,8 +64,7 @@ Many types of models, for different ways of transport
 					- CAT5
 						- Doesn't have the separator in the middle.
 					- CAT6
-						- Has separator. This is used to defend against **interference
-						- **
+						- Has separator. This is used to defend against **interference**
 			- STPC - Shielded Twisted Pair Cable
 			- **Ethernet cables are generally 100m viable length!!!**
 		- Another Link protocol is Fibre-optic cables, different types *for different needs*:
