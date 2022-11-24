@@ -1,13 +1,8 @@
-<<<<<<< HEAD
-ssh---
-=======
 ---
->>>>>>> origin/hugo
 layout: default
 title: "R-AECHE-46"
 ---
 
-<<<<<<< HEAD
 Oxidation is Loss,
 Reduction is Reduced
 **OILRIG**
@@ -80,7 +75,6 @@ Zinc + Copper (ii) Sulfate ->
 - What is oxidised? What is reduced?
 	- Zinc is oxidised, Copper **in $CuSO_4$ solution(or $Cu^{2+}$ ions)** is reduced.
 
-=======
 $Mg_{(s)} + 2H^{+}_{(aq)} \to Mg^{2+}_{{(aq)}} + H_{2(g)}$
 
 Mg is the reducing agent, $H_{2}SO_4$ (NOT $H^{+}$ CAN WRITE $H^{+}$ **IN** $H_{2}SO_4$) solution is the oxidising agent.
@@ -106,4 +100,3 @@ $MnO_{4}^{-} + 8H^{+} + 5Fe^{2+} \to Mn^{2+} + 4H_{2}O + 5Fe^{3+}$
 - Spontaneous reaction: happens at room temperature, on its own
 - $Zn_{(s)} \to Zn^{2+}_{(aq)} + 2\overline{e}$
 - $Cu^{+}_{(aq)} + 2\overline{e}\to Cu_{(s)}$
->>>>>>> origin/hugo
