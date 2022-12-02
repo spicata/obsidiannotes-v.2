@@ -64,3 +64,6 @@ yea at this point im just testing
 ## 2/12/2022
 
 today may be the day that obsidian works properly on linux
+
+poggg???
+(test 2, after restart)
