@@ -50,10 +50,7 @@ title: "AECHE Class Notes"
 - [R-AECHE-44](R-AECHE-44.md)
 - [R-AECHE-45](R-AECHE-45.md)
 - [[R-AECHE-46]]
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/hugo
+- [R-AECHE-47](R-AECHE-47.md)
 
 ### Additional Notes:
 - [Pilling Calculation Questions](Pilling%20Calculation%20Questions.md)

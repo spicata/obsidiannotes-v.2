@@ -95,7 +95,7 @@ Most economies require **a system** to address the 4 basic questions
 ==KEY CONCEPT OF A MARKET ECONOMY IS THE LAWS OF SUPPLY AND DEMAND==
 
 - A market economy is a system where the **laws of supply and demand** *direct* the production of goods and services
-- Supplies includes natural resources, land, labour and enterprie - Factors of Production
+- Supplies includes natural resources, land, labour and enterprise - Factors of Production
 - Demands include purchases by consumers, business and the government.
 - Businesses sell their wares at the highest price consumers will pay.
 - At the same time, shoppers **look for the lowest prices** for the goods and services they want.

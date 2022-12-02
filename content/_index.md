@@ -37,3 +37,7 @@ You may also enjoy perusing my [Yr11 Chemistry textbook review](Chemistry%20Reso
 This website is in the development stage. There will definitely be some unformatted pages, and the whole thing is rather experimental. Check out the development status [here](Development%20Status.md)!
 
 Thanks for reading! I hope this website is somewhat useful to you.
+
+### Importanter!
+
+I have a [section where I write about stuff](Writings.md), generally in response towards external stimulii.

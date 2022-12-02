@@ -178,3 +178,6 @@ title: Research
 	15. a. Computer. Computer's may be advertise on large billboards, or though online ads.
 			  b. ![[Pasted image 20220721113242.png]]
 			  c. Consumers influence demand, while producers influence supply. Both in conjunction to influence cost, which in turn influences the quantity in which certain products are produced.
+
+
+$\frac{(a^{4}\times a^{-9})^{\frac{1}{2}}}{a^2}$

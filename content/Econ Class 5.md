@@ -30,7 +30,7 @@ Socialism Pros:
 - Reduction of povety
 - Regulates excesses of free market - externalities, monopoly and monopsony?
 - Universal health care improves living standards and labour productivity
-- Promotes common good and social welfare rather than selfrish aims
+- Promotes common good and social welfare rather than selfish aims
 - More equal society increases social cohesion
 - Can promote protection of environment
 

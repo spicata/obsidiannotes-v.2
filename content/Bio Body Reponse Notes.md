@@ -4,7 +4,7 @@ title: "Bio Body Reponse Notes"
 ---
 ## Inflammation/Inflammatory Response
 - Skin is broken. Non-specific immune response occurs. This is an example of mechanical damage.
-- Specialised leucocytes, **mast cells**, are activated and cause ***several chemicals*** to be released, such as:
+- Specialised leukocytes, **mast cells**, are activated and cause ***several chemicals*** to be released, such as:
 	- **histamine**:
 		- Increases blood flow to the area through vasodilation.
 		- Walls of capillaries become more permeable. 
@@ -19,7 +19,7 @@ title: "Bio Body Reponse Notes"
 
 ## Fever
 - Pathogens infecting the body result in the elevation of high temperature, called a fever.
-- Due to infection, the hypothalamus resets the body temperature to a higher point (new set point)
+- Due to infection, the hypothalamus sets the body temperature to a higher point (new set point)
 - The infected person feels cold causing:
 	- **Shiver**: Muscles contract + relax to generate heat
 	- **Vasoconstriction(in the skin)**: blood vessels marrow to reduce blood flow and conserve heat.
