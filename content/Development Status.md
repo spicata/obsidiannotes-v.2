@@ -67,3 +67,5 @@ today may be the day that obsidian works properly on linux
 
 poggg???
 (test 2, after restart)
+
+test 3, using school internet
