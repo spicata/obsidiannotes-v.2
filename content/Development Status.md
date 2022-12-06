@@ -79,4 +79,4 @@ looks like my spec stuff didnt transfer ababouey
 test1: tick
 test2: tick
 test3(using https config file): fail
-test4(config + remote repo change to https): tick
+test4(config + remote repo change to https): tick!
