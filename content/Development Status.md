@@ -78,3 +78,4 @@ looks like my spec stuff didnt transfer ababouey
 
 test1: tick
 test2: tick
+test3(using https config file): tick
