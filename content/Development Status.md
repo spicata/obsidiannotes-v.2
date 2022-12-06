@@ -81,4 +81,5 @@ test2(after restart): tick
 test3(using https config file): fail
 test4(config + remote repo change to https): fail!
 test5(https but no config): fail
+test6(mac version of config): tick
 **current conclusion: only base ssh seems to work (only ssh, no https)**
