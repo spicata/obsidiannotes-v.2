@@ -73,3 +73,5 @@ test 3, using school internet (i got beaned by printer notification)
 benaning
 
 help it doesnt work
+
+looks like my spec stuff didnt transfer ababouey 
