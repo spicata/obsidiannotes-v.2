@@ -84,4 +84,21 @@ test5(https but no config): fail
 test6(mac version of config): tick
 test6(give config perms): tick?
 test7(add mac version): tick?
-~~**current conclusion: only base ssh seems to work (only ssh, no https)**~~
+test8(restart,no command): tick
+**current conclusion: the following works to push at home:**
+- base ssh
+- config of following:
+```
+Host github.com
+
+Hostname ssh.github.com
+
+Port 443
+
+User git
+
+AddKeysToAgent yes
+
+IdentityFile ~/.ssh/id_ed25519
+```
+- url: ssh
