@@ -77,3 +77,4 @@ help it doesnt work
 looks like my spec stuff didnt transfer ababouey 
 
 test1: tick
+test2: tick
