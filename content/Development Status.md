@@ -76,8 +76,9 @@ help it doesnt work
 
 looks like my spec stuff didnt transfer ababouey 
 
-test1: tick
-test2: tick
+test1(pure setup): tick
+test2(after restart): tick
 test3(using https config file): fail
 test4(config + remote repo change to https): fail!
-test5(https but no config)
+test5(https but no config): fail
+**current conclusion: only base ssh seems to work (only ssh, no https)**
