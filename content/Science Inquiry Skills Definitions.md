@@ -35,3 +35,12 @@ Justifying your strategy
 
 Don't contradict yourself, using more precise stopwatch is not necessarily an improvement. 
 - e.g. average in 3 decimal places, when initial data was measured in whole numbers.
+
+$6CO_{2} + 6H_{2}O \to C_{6}H_{12}O_{6}$
+
+-4 -4 , 2x +1 -2, C 0
+
+CO_2 is reduced - gain
+
+H_2O is oxidised 
+
