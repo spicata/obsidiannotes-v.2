@@ -102,3 +102,12 @@ AddKeysToAgent yes
 IdentityFile ~/.ssh/id_ed25519
 ```
 - url: ssh
+
+(we have reached day 4 of the struggle with linux, i may or may not have "accidentally" "deleted" a "critical package" from linux and had to reinstall)
+
+## the biggest test of them all: school internet
+
+
+test9(at school): tick
+
+
