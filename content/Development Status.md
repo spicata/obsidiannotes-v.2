@@ -110,5 +110,6 @@ IdentityFile ~/.ssh/id_ed25519
 
 test9(at school): tick
 test10(second push): tick
+test11(after restart): tick
 
 
