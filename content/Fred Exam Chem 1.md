@@ -45,8 +45,6 @@ b) Upon condensing the products of this reaction, workers of the partner company
 c) What is a catalyst, and how is it used in industrial processes? (3 marks)
 
 2. (5 marks)
-Vladimir Markovnikov was a Russian chemist, notable for the Markovnikov rule, allowing one to determine the major product of addition reactions.
-
 Name or draw the following organic compounds: (5 marks)
 
 | IUPAC Name                     | Structural Formula                        |
