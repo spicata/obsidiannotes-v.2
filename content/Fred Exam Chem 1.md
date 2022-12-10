@@ -31,7 +31,6 @@ Passing mark(Everyone else): 75%
 The Haber process is an epic process discovered by my favourite German Fritz Haber (not endorsing the bad things Haber did). 
 
 Previous to Haber's discovery, it was theorised that Ammonia could be synthesised via a reaction between Nitrogen and Hydrogen gas:
-
 $N_{2(g)} + 3H_{2(g)} \to 2NH_{3(l)}$
 
 However, due to the high activation energy of this reaction, there were no widely available processes to synthesise Ammonia. (Frank-Caro and Birkeland-Eyde were inefficient)
@@ -66,7 +65,6 @@ b) How many grams of precipitate is produced? (3 marks)
 
 4. (7 marks)
 Henry Bui is feeling sad today, and considers using Phosphoric acid. He finds that he needs 6 moles of Protons ($H^{+}$) to do what he wants to do.
-
 $H_{3}PO_{4(aq)} \to 3H^{+}_{(aq)} + PO_{4(aq)}^{3-}$
 
 a) Assuming all molecules of phosphoric acid ionise into protons in solution, how many grams of phosphoric acid does Henry need? (2 marks)
@@ -74,7 +72,6 @@ a) Assuming all molecules of phosphoric acid ionise into protons in solution, ho
 b) Henry adds the required amount of phosphoric acid into a large container of water. Has the container increased or decreased in pH? (1 mark)
 
 c) Upon evaluating the good things in life, Henry forgoes his plans and decides to neutralise the container. He adds 200g of Sodium Hydroxide ($NaOH$), which undergoes the following reaction:
-
 $NaOH_{(aq)} + H^{+}_{(aq)} \to Na^{+}_{{(aq)}} + H_{2}O_{(l)}$
 
 Assuming the whole 200g of $NaOH$ reacts, will this be enough to remove all the added Protons ($H^+$)? (4 Marks)
@@ -138,7 +135,6 @@ b) Frederick shows this answer to his teacher and gets publically embarrassed. N
 What is the reaction Frederick is thinking of? (1 mark)
 
 c) The specific (unbalanced) reaction Frederick is considering is as follows:
-
 $C_{8}H_{18(l)} + O_{2(g)} \to CO_{(g)} + H_{2}O_{(l)}$
 
 Balance the equation. (2 marks)
