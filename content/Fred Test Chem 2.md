@@ -4,7 +4,7 @@ title: "Fred Test Chem 2"
 ---
 
 **Total:** 21 marks
-**Score:** 
+**Score:** 17 marks
 
 1. Name the following substances with their proper name, ***not* their chemical formula**. (13 marks)
 *Note that more than one answer may be acceptable*
