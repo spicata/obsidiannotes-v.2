@@ -10,6 +10,7 @@ title: "Fred Exam Chem 1"
 
 Allowed Equipment:
 - Brain (optional)
+- Separate Working Paper
 - Calculator
 - Data sheet
 
