@@ -22,6 +22,9 @@ Allowed Equipment:
 - Extended Response: 
 **Score:**
 
+Passing mark(Fred): 80%
+Passing mark(Everyone else): 75%
+
 ### Short Answer
 
 1. (7 marks) 
