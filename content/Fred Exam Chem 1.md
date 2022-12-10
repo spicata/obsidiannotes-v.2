@@ -56,7 +56,7 @@ Name or draw the following organic compounds: (5 marks)
 | 2,4-dimethyl-3-ethyl-non-2-ene |                                           |
 
 3. (4 marks)
-Chemistry students studying precipitate reactions ad 365 grams of Barium Chloride into an aqueous solution of Sulfuric acid.
+Chemistry students studying precipitate reactions add 365 grams of Barium Chloride into an aqueous solution of Sulfuric acid.
 
 a) Give the chemical formula of the precipitate produced. (1 mark)
 
