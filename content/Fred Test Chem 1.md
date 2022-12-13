@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Fred Test Chem 1"
+---
+
 Total: 23 marks + 9 extension
 
 19/23 + 5/9
